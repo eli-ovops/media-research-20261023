@@ -1,0 +1,472 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友 1":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+  - generic: "1"
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: GPT-5.6漏洞详情
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:10
+- generic: /
+- generic: 04:26
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link "个人观点，仅供参考":
+  - /url: undefined
+  - generic: 个人观点，仅供参考
+- generic: 章节要点
+- generic: GPT-5.6挖出PHP漏洞，影响全球70%网站，导致芬兰、荷兰、日本等多国政府网站关闭。这是首次由AI发现的漏洞导致多国政府同时关站。AI降低了漏洞挖掘成本，提高了攻击门槛，但也带来了挑战。企业应立即排查升级，摸清家底，改为全天候监测。关键信息基础设施需关注软件供应链安全，纳入强制性日常治理。
+- generic: 00:00
+- generic: 引言
+- generic: 00:20
+- generic: 漏洞概述
+- paragraph: PHP是全球约七成网站的编程语言，两个致命漏洞影响版本从5.4到8.5，安全评分9.2。
+- generic: 01:16
+- generic: 漏洞影响
+- paragraph: 芬兰、荷兰、日本等多国政府网站关闭，维基百科支撑服务下线，日本一批热门游戏停服。
+- generic: 01:32
+- generic: 漏洞挖掘
+- paragraph: OpenAI安全团队用GPT-5.6Sol找到谷歌旗下的Wiz，独立发现漏洞，改写规则。
+- generic: 02:10
+- generic: 挑战与机会
+- paragraph: AI改写漏洞成本账，降低攻击门槛，中国大模型在网络安全基准测试中表现出色。
+- generic: 03:08
+- generic: 防范建议
+- paragraph: 立即排查升级，摸清家底，改为全天候监测。
+- generic: 03:38
+- generic: 软件供应链安全
+- paragraph: 关键信息基础设施建立在软件供应链之上，需纳入强制性日常治理。
+- 'heading "第21集 | AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭#PHP漏洞 #AI安全 #软件供应链 #等保测评 #老樊AI" [level=1]':
+  - text: 第21集 |
+  - generic: AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭
+  - link "#PHP漏洞":
+    - /url: //www.douyin.com/search/PHP%E6%BC%8F%E6%B4%9E?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#AI安全":
+    - /url: //www.douyin.com/search/AI%E5%AE%89%E5%85%A8?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#软件供应链":
+    - /url: //www.douyin.com/search/%E8%BD%AF%E4%BB%B6%E4%BE%9B%E5%BA%94%E9%93%BE?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#等保测评":
+    - /url: //www.douyin.com/search/%E7%AD%89%E4%BF%9D%E6%B5%8B%E8%AF%84?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#老樊AI":
+    - /url: //www.douyin.com/search/%E8%80%81%E6%A8%8AAI?enter_from=video_detail&source=pc_click_hashtag_feed
+- generic: "57"
+- generic: "12"
+- generic: "20"
+- generic: "13"
+- generic: 举报
+- generic: 发布时间：2026-10-23 07:30
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "PHP安全补丁下载":
+  - /url: //www.douyin.com/search/PHP%E5%AE%89%E5%85%A8%E8%A1%A5%E4%B8%81%E4%B8%8B%E8%BD%BD?aweme_id=7699638782727618024&enter_from=video_detail&gid=7699638782727618024&source=comment_related_search
+  - generic: PHP安全补丁下载
+- link "我就稀罕你":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAsHSCMkt-hr1EsOCumm-8KRb518Sr6RtfwvlBE6jjPsFj63WqTSyAYLEhz21Xjmby
+  - generic: 我就稀罕你
+- generic: ...
+- generic: 为什么有种看AI高科技打架的即视感
+- generic: 13分钟前·江苏
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "北落师门":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAxtckyZb6zkJU1b2_qJCaBSJHLc-tMByfJyKSpCHHpsqyxNoZCy7JvVBIizjopyQ4
+  - generic: 北落师门
+- generic: ...
+- generic: 不是，都谁在用 PHP 啊？我这辈子就碰见一个 PHP 程序员
+- generic: 作者回复过
+- generic: 2小时前·陕西
+- paragraph:
+  - generic: "1"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开9条回复":
+  - generic: 展开9条回复
+- link "玉红131499":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAG4WuAAjHKlGyUVsz-9pYomRStf_Em_HZb8NjmPxVlXYkuYlcEGuoH_UfcUOvIgTm
+  - generic: 玉红131499
+- generic: ...
+- text: 他说AI智能体慢一点，是真话还是假话，你们要想清楚一点，
+- img "[赞]"
+- img "[赞]"
+- img "[赞]"
+- generic: 1小时前·重庆
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- generic: 暂时没有更多评论
+- link "老樊AI":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAQA86Qef0lvIr71BXQ1Eit6saOgZCipC-YalSMDzNH40
+  - img "老樊AI"
+- link "老樊AI":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAQA86Qef0lvIr71BXQ1Eit6saOgZCipC-YalSMDzNH40
+  - generic: 老樊AI
+- paragraph: 粉丝1807获赞1.4万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "网络安全" [level=2]
+- list:
+  - link "网络安全第16集 01:32":
+    - /url: //www.douyin.com/video/7685708566833478120
+    - img "网络安全第16集"
+    - generic: 01:32
+  - heading "第16集 | 大模型价格对比， Qwen3.8Max，一个智能体任务，把我跑破产了[流泪]#AI智能体#Qwen3.8#DeepSeekV4#网络安全#大模型价格。" [level=3]:
+    - link "第16集 | 大模型价格对比， Qwen3.8Max，一个智能体任务，把我跑破产了[流泪]#AI智能体#Qwen3.8#DeepSeekV4#网络安全#大模型价格。":
+      - /url: //www.douyin.com/video/7685708566833478120
+      - text: 第16集 | 大模型价格对比， Qwen3.8Max，一个智能体任务，把我跑破产了
+      - img "[流泪]"
+      - text: "#AI智能体#Qwen3.8#DeepSeekV4#网络安全#大模型价格。"
+  - text: "32"
+  - link "网络安全第17集 09:52":
+    - /url: //www.douyin.com/video/7690195345774681999
+    - img "网络安全第17集"
+    - generic: 09:52
+  - 'heading "第17集 | 机关工作人员用 AI 导致泄密！政府机关、国央企，到底能不能用 WorkBuddy 办公？ #WorkBuddy #AI办公 #数据安全 #政务数字化 #等保" [level=3]':
+    - 'link "第17集 | 机关工作人员用 AI 导致泄密！政府机关、国央企，到底能不能用 WorkBuddy 办公？ #WorkBuddy #AI办公 #数据安全 #政务数字化 #等保"':
+      - /url: //www.douyin.com/video/7690195345774681999
+      - generic: "第17集 | 机关工作人员用 AI 导致泄密！政府机关、国央企，到底能不能用 WorkBuddy 办公？ #WorkBuddy #AI办公 #数据安全 #政务数字化 #等保"
+  - text: "1343"
+  - link "网络安全第18集 06:21":
+    - /url: //www.douyin.com/video/7695377855354288000
+    - img "网络安全第18集"
+    - generic: 06:21
+  - 'heading "第18集 | AI办公已成单位泄密高发区：你粘贴的那4秒，正在把客户资料、红头文件送出去#AI泄密 #AI办公 #数据安全 #职场避坑 #老樊AI" [level=3]':
+    - 'link "第18集 | AI办公已成单位泄密高发区：你粘贴的那4秒，正在把客户资料、红头文件送出去#AI泄密 #AI办公 #数据安全 #职场避坑 #老樊AI"':
+      - /url: //www.douyin.com/video/7695377855354288000
+      - generic: "第18集 | AI办公已成单位泄密高发区：你粘贴的那4秒，正在把客户资料、红头文件送出去#AI泄密 #AI办公 #数据安全 #职场避坑 #老樊AI"
+  - text: "80"
+  - link "网络安全第19集 00:57":
+    - /url: //www.douyin.com/video/7696374365592879848
+    - img "网络安全第19集"
+    - generic: 00:57
+  - 'heading "第19集 | 要让AI发挥价值，这三步必须走对。#AI#AI智能体#干货分享 #真实生活记录" [level=3]':
+    - 'link "第19集 | 要让AI发挥价值，这三步必须走对。#AI#AI智能体#干货分享 #真实生活记录"':
+      - /url: //www.douyin.com/video/7696374365592879848
+      - generic: "第19集 | 要让AI发挥价值，这三步必须走对。#AI#AI智能体#干货分享 #真实生活记录"
+  - text: "11"
+  - link "网络安全第20集 07:13":
+    - /url: //www.douyin.com/video/7697120860902131392
+    - img "网络安全第20集"
+    - generic: 07:13
+  - 'heading "第20集 | 0.88 美元、22 秒、9 天，干翻韩国 16 家银行：AI 时代网络攻防的全面重构 #AI时代 #网络安全 #攻防重构 #等保测评 #人工智能安全" [level=3]':
+    - 'link "第20集 | 0.88 美元、22 秒、9 天，干翻韩国 16 家银行：AI 时代网络攻防的全面重构 #AI时代 #网络安全 #攻防重构 #等保测评 #人工智能安全"':
+      - /url: //www.douyin.com/video/7697120860902131392
+      - generic: "第20集 | 0.88 美元、22 秒、9 天，干翻韩国 16 家银行：AI 时代网络攻防的全面重构 #AI时代 #网络安全 #攻防重构 #等保测评 #人工智能安全"
+  - text: "7"
+  - link "网络安全第21集 播放中":
+    - /url: //www.douyin.com/video/7699638782727618024
+    - img "网络安全第21集"
+    - generic: 播放中
+  - 'heading "第21集 | AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭#PHP漏洞 #AI安全 #软件供应链 #等保测评 #老樊AI" [level=3]':
+    - 'link "第21集 | AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭#PHP漏洞 #AI安全 #软件供应链 #等保测评 #老樊AI"':
+      - /url: //www.douyin.com/video/7699638782727618024
+      - generic: "第21集 | AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭#PHP漏洞 #AI安全 #软件供应链 #等保测评 #老樊AI"
+  - text: "57"
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业 40:44"':
+    - /url: //www.douyin.com/video/7699123953838673186
+    - 'img "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业"'
+    - generic: 40:44
+  - 'heading "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业" [level=3]':
+    - 'link "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业"':
+      - /url: //www.douyin.com/video/7699123953838673186
+      - generic: "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业"
+  - text: "6179"
+  - link "3Blue1Brown":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAASLx2f81PzuPhJ39cxAGM2C8_cpiN1JXUvZadPQiV-pR-hR6Rz9AjVBxIxMdwxv7?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 3Blue1Brown
+  - 'link "做了半年AIGC，我来交账单了！ 不算不知道，这半年真没少给AI交钱😂连假官网都让我碰上了！ 一条7分钟的片子，光生图生视频就花了一万多，还没算人工。大模型会员、视频积分、各种画布，钱到底花哪了？哪些花得值，哪些纯踩坑？ 这次直接甩账单，顺便聊聊我现在还在续费的工具。 你们在AI上花了多少？评论区对个账！ #AI视频 #AI创作 #AI工具 #大象学长 #AI新星计划 07:58"':
+    - /url: //www.douyin.com/video/7694993869422824747
+    - 'img "做了半年AIGC，我来交账单了！ 不算不知道，这半年真没少给AI交钱😂连假官网都让我碰上了！ 一条7分钟的片子，光生图生视频就花了一万多，还没算人工。大模型会员、视频积分、各种画布，钱到底花哪了？哪些花得值，哪些纯踩坑？ 这次直接甩账单，顺便聊聊我现在还在续费的工具。 你们在AI上花了多少？评论区对个账！ #AI视频 #AI创作 #AI工具 #大象学长 #AI新星计划"'
+    - generic: 07:58
+  - 'heading "做了半年AIGC，我来交账单了！ 不算不知道，这半年真没少给AI交钱😂连假官网都让我碰上了！ 一条7分钟的片子，光生图生视频就花了一万多，还没算人工。大模型会员、视频积分、各种画布，钱到底花哪了？哪些花得值，哪些纯踩坑？ 这次直接甩账单，顺便聊聊我现在还在续费的工具。 你们在AI上花了多少？评论区对个账！ #AI视频 #AI创作 #AI工具 #大象学长 #AI新星计划" [level=3]':
+    - 'link "做了半年AIGC，我来交账单了！ 不算不知道，这半年真没少给AI交钱😂连假官网都让我碰上了！ 一条7分钟的片子，光生图生视频就花了一万多，还没算人工。大模型会员、视频积分、各种画布，钱到底花哪了？哪些花得值，哪些纯踩坑？ 这次直接甩账单，顺便聊聊我现在还在续费的工具。 你们在AI上花了多少？评论区对个账！ #AI视频 #AI创作 #AI工具 #大象学长 #AI新星计划"':
+      - /url: //www.douyin.com/video/7694993869422824747
+      - text: 做了半年AIGC，我来交账单了！ 不算不知道，这半年真没少给AI交钱
+      - img "😂"
+      - text: 连假官网都让我碰上了！
+      - generic: 一条7分钟的片子，光生图生视频就花了一万多，还没算人工。大模型会员、视频积分、各种画布，钱到底花哪了？哪些花得值，哪些纯踩坑？
+      - generic: 这次直接甩账单，顺便聊聊我现在还在续费的工具。
+      - generic: 你们在AI上花了多少？评论区对个账！
+      - generic: "#AI视频 #AI创作 #AI工具 #大象学长 #AI新星计划"
+  - text: "3025"
+  - link "大象学长":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAEmMeID1WxsE3Peb_Ys2uc9FbFp0R-pzsDw0qTxO-CJghg9fG_2qoXtxQHmxX7GEJ?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 大象学长
+  - 'link "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客 14:46"':
+    - /url: //www.douyin.com/video/7682687704374519872
+    - 'img "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客"'
+    - generic: 14:46
+  - 'heading "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客" [level=3]':
+    - 'link "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客"':
+      - /url: //www.douyin.com/video/7682687704374519872
+      - generic: "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客"
+  - text: "1956"
+  - link "天生斯人也":
+    - /url: //www.douyin.com/user/MS4wLjABAAAApdjPKtluLcTx0hQE4QNr-aOHXhdP4iju8eMhkmWdexo?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 天生斯人也
+  - 'link "🎬地球2.0，新物种诞生？人类命运该何去何从？ #新物种诞生 #地球之王 #AI统治人类 #AI智能体 #AI安全 20:54"':
+    - /url: //www.douyin.com/video/7690903927881010472
+    - 'img "🎬地球2.0，新物种诞生？人类命运该何去何从？ #新物种诞生 #地球之王 #AI统治人类 #AI智能体 #AI安全"'
+    - generic: 20:54
+  - 'heading "🎬地球2.0，新物种诞生？人类命运该何去何从？ #新物种诞生 #地球之王 #AI统治人类 #AI智能体 #AI安全" [level=3]':
+    - 'link "🎬地球2.0，新物种诞生？人类命运该何去何从？ #新物种诞生 #地球之王 #AI统治人类 #AI智能体 #AI安全"':
+      - /url: //www.douyin.com/video/7690903927881010472
+      - img "🎬"
+      - text: "地球2.0，新物种诞生？人类命运该何去何从？ #新物种诞生 #地球之王 #AI统治人类 #AI智能体 #AI安全"
+  - text: "1641"
+  - link "崔哥侃":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA7VMSNhmwqIjaTu-N7gfBqYJONgIjUDpYdDRBec-VyvY?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 崔哥侃
+  - 'link "我居然也开始用豆包工作了，分享体验和洞察 #豆包工作 #飞书 #ai新星计划 #抖音前沿科技首发计划 #vibeCoding大赏 06:52"':
+    - /url: //www.douyin.com/video/7677849268564102454
+    - 'img "我居然也开始用豆包工作了，分享体验和洞察 #豆包工作 #飞书 #ai新星计划 #抖音前沿科技首发计划 #vibeCoding大赏"'
+    - generic: 06:52
+  - 'heading "我居然也开始用豆包工作了，分享体验和洞察 #豆包工作 #飞书 #ai新星计划 #抖音前沿科技首发计划 #vibeCoding大赏" [level=3]':
+    - 'link "我居然也开始用豆包工作了，分享体验和洞察 #豆包工作 #飞书 #ai新星计划 #抖音前沿科技首发计划 #vibeCoding大赏"':
+      - /url: //www.douyin.com/video/7677849268564102454
+      - generic: "我居然也开始用豆包工作了，分享体验和洞察 #豆包工作 #飞书 #ai新星计划 #抖音前沿科技首发计划 #vibeCoding大赏"
+  - text: 3.5万
+  - link "小天fotos":
+    - /url: //www.douyin.com/user/MS4wLjABAAAALt54qyyG0n4QKc9diYjo6lwt2XVg3O2p837R12Gwd2k?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 小天fotos
+  - 'link "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体 15:11"':
+    - /url: //www.douyin.com/video/7678228126438034694
+    - 'img "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体"'
+    - generic: 15:11
+  - 'heading "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体" [level=3]':
+    - 'link "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体"':
+      - /url: //www.douyin.com/video/7678228126438034694
+      - generic: "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体"
+  - text: "6859"
+  - link "大模型小黑":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAzEHDQYXeDTboVrLPgSNZfRER6vKeHRI46jsvUM85GIw?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 大模型小黑
+  - 'link "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体 15:11"':
+    - /url: //www.douyin.com/video/7678228128543657216
+    - 'img "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体"'
+    - generic: 15:11
+  - 'heading "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体" [level=3]':
+    - 'link "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体"':
+      - /url: //www.douyin.com/video/7678228128543657216
+      - generic: "一份只有10条的文件，直接把中国AI产业的方向定了 #AI #大模型 #人工智能 #agent #智能体"
+  - text: 1.0万
+  - link "大模型小黑":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAzEHDQYXeDTboVrLPgSNZfRER6vKeHRI46jsvUM85GIw?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 大模型小黑
+  - 'link "大数据平台进入 Agent 时代 DataBuddy全链路实战教程 #DataBuddy #Agent #腾讯云 #大数据 #数据平台 12:06"':
+    - /url: //www.douyin.com/video/7694936197176495400
+    - 'img "大数据平台进入 Agent 时代 DataBuddy全链路实战教程 #DataBuddy #Agent #腾讯云 #大数据 #数据平台"'
+    - generic: 12:06
+  - 'heading "大数据平台进入 Agent 时代 DataBuddy全链路实战教程 #DataBuddy #Agent #腾讯云 #大数据 #数据平台" [level=3]':
+    - 'link "大数据平台进入 Agent 时代 DataBuddy全链路实战教程 #DataBuddy #Agent #腾讯云 #大数据 #数据平台"':
+      - /url: //www.douyin.com/video/7694936197176495400
+      - generic: 大数据平台进入 Agent 时代 DataBuddy全链路实战教程
+      - generic: "#DataBuddy #Agent #腾讯云 #大数据 #数据平台"
+  - text: "593"
+  - link "技术爬爬虾":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAFSp1EdCLJkoMieKaEVgSj2uoZpVw9ZDyymICRsuR3SQ?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 技术爬爬虾
+  - 'link "AI 短剧，一场残酷的盛宴 AI用短短数月硬生生改变一个行业的秩序，其革故鼎新的效率前所未见，在这真实的人间景象面前，即便是最激进的科技预言，都显得苍白无趣。 今天聊聊AI短剧巨浪下的众生相。#AI短剧 #AI漫剧 #红果短剧 08:02"':
+    - /url: //www.douyin.com/video/7699019012332875441
+    - 'img "AI 短剧，一场残酷的盛宴 AI用短短数月硬生生改变一个行业的秩序，其革故鼎新的效率前所未见，在这真实的人间景象面前，即便是最激进的科技预言，都显得苍白无趣。 今天聊聊AI短剧巨浪下的众生相。#AI短剧 #AI漫剧 #红果短剧"'
+    - generic: 08:02
+  - 'heading "AI 短剧，一场残酷的盛宴 AI用短短数月硬生生改变一个行业的秩序，其革故鼎新的效率前所未见，在这真实的人间景象面前，即便是最激进的科技预言，都显得苍白无趣。 今天聊聊AI短剧巨浪下的众生相。#AI短剧 #AI漫剧 #红果短剧" [level=3]':
+    - 'link "AI 短剧，一场残酷的盛宴 AI用短短数月硬生生改变一个行业的秩序，其革故鼎新的效率前所未见，在这真实的人间景象面前，即便是最激进的科技预言，都显得苍白无趣。 今天聊聊AI短剧巨浪下的众生相。#AI短剧 #AI漫剧 #红果短剧"':
+      - /url: //www.douyin.com/video/7699019012332875441
+      - generic: AI 短剧，一场残酷的盛宴 AI用短短数月硬生生改变一个行业的秩序，其革故鼎新的效率前所未见，在这真实的人间景象面前，即便是最激进的科技预言，都显得苍白无趣。
+      - generic: "今天聊聊AI短剧巨浪下的众生相。#AI短剧 #AI漫剧 #红果短剧"
+  - text: "1399"
+  - link "约翰啥都懂":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAV29hjh7g4rffrMEX9GzffRjcNPPzOcEedMIkLM_sN84?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 约翰啥都懂
+  - 'link "【抖音独家】GPT‑6 Astra 发布：欢迎来到AGI时代 不只是跑分暴涨！GPT‑6 Astra 真正的革命：AI 从聊天工具进化成数字劳动力，2026 最重要 AI 时刻：GPT‑6 Astra 登场，我们真的踏入 AGI 时代了吗？当 AI 可以替你做完电脑上所有事：GPT‑6 Astra 带来的生产革命#GPT6 #Astra #OpenAI #AGI #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号 09:07"':
+    - /url: //www.douyin.com/video/7681571690018639139
+    - 'img "【抖音独家】GPT‑6 Astra 发布：欢迎来到AGI时代 不只是跑分暴涨！GPT‑6 Astra 真正的革命：AI 从聊天工具进化成数字劳动力，2026 最重要 AI 时刻：GPT‑6 Astra 登场，我们真的踏入 AGI 时代了吗？当 AI 可以替你做完电脑上所有事：GPT‑6 Astra 带来的生产革命#GPT6 #Astra #OpenAI #AGI #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号"'
+    - generic: 09:07
+  - 'heading "【抖音独家】GPT‑6 Astra 发布：欢迎来到AGI时代 不只是跑分暴涨！GPT‑6 Astra 真正的革命：AI 从聊天工具进化成数字劳动力，2026 最重要 AI 时刻：GPT‑6 Astra 登场，我们真的踏入 AGI 时代了吗？当 AI 可以替你做完电脑上所有事：GPT‑6 Astra 带来的生产革命#GPT6 #Astra #OpenAI #AGI #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "【抖音独家】GPT‑6 Astra 发布：欢迎来到AGI时代 不只是跑分暴涨！GPT‑6 Astra 真正的革命：AI 从聊天工具进化成数字劳动力，2026 最重要 AI 时刻：GPT‑6 Astra 登场，我们真的踏入 AGI 时代了吗？当 AI 可以替你做完电脑上所有事：GPT‑6 Astra 带来的生产革命#GPT6 #Astra #OpenAI #AGI #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7681571690018639139
+      - generic: "【抖音独家】GPT‑6 Astra 发布：欢迎来到AGI时代 不只是跑分暴涨！GPT‑6 Astra 真正的革命：AI 从聊天工具进化成数字劳动力，2026 最重要 AI 时刻：GPT‑6 Astra 登场，我们真的踏入 AGI 时代了吗？当 AI 可以替你做完电脑上所有事：GPT‑6 Astra 带来的生产革命#GPT6 #Astra #OpenAI #AGI #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号"
+  - text: "1028"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=95052619439&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699638782727618024&log_pb=%7B%22impr_id%22%3A%222026102310455934B41D20E56FB2645F66%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "游戏视频推荐":
+    - /url: https://www.douyin.com/jingxuan/game
+  - link "抖音热门歌曲":
+    - /url: https://www.douyin.com/jingxuan/music
+  - link "醒醒星座":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAv2Qllq_jrY0YkqBxiAW2c7c81QhXvDXcXKIVUOEW4WA
+  - 'link "学英语一定要学会这个万能词 #英语 #零基础学英语 #中老年学英语"':
+    - /url: https://www.douyin.com/video/7699447797044481316
+  - link "高考选择性考试是什么意思":
+    - /url: https://www.douyin.com/topic/7509881778962745396
+  - link "北大专项计划河南名单":
+    - /url: https://www.douyin.com/shipin/7509895027146098722
+  - link "江汉大学高招会":
+    - /url: https://www.douyin.com/search/%E6%B1%9F%E6%B1%89%E5%A4%A7%E5%AD%A6%E9%AB%98%E6%8B%9B%E4%BC%9A
+  - link "磁控冰箱冻了60天的黄鱼什么样":
+    - /url: https://www.douyin.com/video/7510029919632493874?source=Baiduspider
+  - 'link "九年级上册历史《查士丁尼编纂法典》人教版，中考复习 提炼重难点，快速记忆，历史提分。#九年级历史 #初三历史 #初三历史笔记 #中考历史 #九上历史"':
+    - /url: https://www.douyin.com/video/7421019697774169356?source=Baiduspider
+  - 'link "寇可往，我已可往 我们的目标是星辰大海#我们的目标是星辰大海 #典故"':
+    - /url: https://www.douyin.com/video/7422163675311541542?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7550998872026320179?source=Baiduspider-sdc
+  - link "马兰花完整版，刚学完跳不好勿喷！谢谢！":
+    - /url: https://www.douyin.com/video/7099378364787494159?source=Baiduspider
+  - 'link "简单介绍一下桦树茸，真假如何分辨，如何选择以及常见食用方法 #桦树茸 #大自然的搬运工 #野生桦树茸"':
+    - /url: https://www.douyin.com/video/7157925813042580773?source=Baiduspider
+  - link "奶爸为梅西嘶吼超长6分57秒，补交世界杯决赛作业！亲老铁必须看到底#梅西":
+    - /url: https://www.douyin.com/video/7205793481543945528?source=Baiduspider-sdc

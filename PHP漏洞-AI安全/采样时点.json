@@ -1,0 +1,884 @@
+[
+  {
+    "key": "Fan",
+    "requested": 1,
+    "paused": false,
+    "readyState": 4,
+    "time": 1.927885,
+    "after": 2.011841,
+    "file": "Fan/capture-0001.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 10,
+    "paused": false,
+    "readyState": 4,
+    "time": 10.709577,
+    "after": 10.76862,
+    "file": "Fan/capture-0002.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 20,
+    "paused": false,
+    "readyState": 4,
+    "time": 20.729391,
+    "after": 20.765693,
+    "file": "Fan/capture-0003.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 30,
+    "paused": false,
+    "readyState": 4,
+    "time": 30.776319,
+    "after": 30.838325,
+    "file": "Fan/capture-0004.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 40,
+    "paused": false,
+    "readyState": 4,
+    "time": 40.763269,
+    "after": 40.827872,
+    "file": "Fan/capture-0005.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 50,
+    "paused": false,
+    "readyState": 4,
+    "time": 50.83214,
+    "after": 50.894232,
+    "file": "Fan/capture-0006.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 60,
+    "paused": false,
+    "readyState": 4,
+    "time": 60.574909,
+    "after": 60.646404,
+    "file": "Fan/capture-0007.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 70,
+    "paused": false,
+    "readyState": 4,
+    "time": 70.591996,
+    "after": 70.63921,
+    "file": "Fan/capture-0008.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 80,
+    "paused": false,
+    "readyState": 4,
+    "time": 80.913306,
+    "after": 80.989491,
+    "file": "Fan/capture-0009.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 90,
+    "paused": false,
+    "readyState": 4,
+    "time": 90.859135,
+    "after": 90.929119,
+    "file": "Fan/capture-0010.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 100,
+    "paused": false,
+    "readyState": 4,
+    "time": 100.721,
+    "after": 100.78086,
+    "file": "Fan/capture-0011.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 110,
+    "paused": false,
+    "readyState": 4,
+    "time": 110.636808,
+    "after": 110.702684,
+    "file": "Fan/capture-0012.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 120,
+    "paused": false,
+    "readyState": 4,
+    "time": 120.613282,
+    "after": 120.666469,
+    "file": "Fan/capture-0013.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 130,
+    "paused": false,
+    "readyState": 4,
+    "time": 130.638402,
+    "after": 130.689404,
+    "file": "Fan/capture-0014.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 140,
+    "paused": false,
+    "readyState": 4,
+    "time": 140.789823,
+    "after": 140.846841,
+    "file": "Fan/capture-0015.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 150,
+    "paused": false,
+    "readyState": 4,
+    "time": 150.659116,
+    "after": 150.737484,
+    "file": "Fan/capture-0016.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 160,
+    "paused": false,
+    "readyState": 4,
+    "time": 160.658105,
+    "after": 160.716481,
+    "file": "Fan/capture-0017.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 170,
+    "paused": false,
+    "readyState": 4,
+    "time": 170.571734,
+    "after": 170.630697,
+    "file": "Fan/capture-0018.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 180,
+    "paused": false,
+    "readyState": 4,
+    "time": 180.908755,
+    "after": 180.969165,
+    "file": "Fan/capture-0019.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 190,
+    "paused": false,
+    "readyState": 4,
+    "time": 190.92136,
+    "after": 190.989335,
+    "file": "Fan/capture-0020.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 200,
+    "paused": false,
+    "readyState": 4,
+    "time": 200.687646,
+    "after": 200.737597,
+    "file": "Fan/capture-0021.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 210,
+    "paused": false,
+    "readyState": 4,
+    "time": 210.728855,
+    "after": 210.781725,
+    "file": "Fan/capture-0022.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 220,
+    "paused": false,
+    "readyState": 4,
+    "time": 220.679439,
+    "after": 220.752649,
+    "file": "Fan/capture-0023.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 230,
+    "paused": false,
+    "readyState": 4,
+    "time": 230.972224,
+    "after": 231.030272,
+    "file": "Fan/capture-0024.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 240,
+    "paused": false,
+    "readyState": 4,
+    "time": 240.891805,
+    "after": 240.973274,
+    "file": "Fan/capture-0025.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 250,
+    "paused": false,
+    "readyState": 4,
+    "time": 250.85622,
+    "after": 250.912502,
+    "file": "Fan/capture-0026.png"
+  },
+  {
+    "key": "Fan",
+    "requested": 263,
+    "paused": false,
+    "readyState": 4,
+    "time": 263.79625,
+    "after": 263.866348,
+    "file": "Fan/capture-0027.png"
+  },
+  {
+    "key": "Na",
+    "requested": 1,
+    "paused": false,
+    "readyState": 4,
+    "time": 3.326954,
+    "after": 3.388746,
+    "file": "Na/capture-0028.png"
+  },
+  {
+    "key": "Na",
+    "requested": 20,
+    "paused": false,
+    "readyState": 4,
+    "time": 20.258224,
+    "after": 20.345766,
+    "file": "Na/capture-0029.png"
+  },
+  {
+    "key": "Na",
+    "requested": 40,
+    "paused": false,
+    "readyState": 4,
+    "time": 40.833523,
+    "after": 40.901289,
+    "file": "Na/capture-0030.png"
+  },
+  {
+    "key": "Na",
+    "requested": 60,
+    "paused": false,
+    "readyState": 4,
+    "time": 63.940514,
+    "after": 63.991902,
+    "file": "Na/capture-0031.png"
+  },
+  {
+    "key": "Na",
+    "requested": 80,
+    "paused": false,
+    "readyState": 4,
+    "time": 80.124446,
+    "after": 80.187857,
+    "file": "Na/capture-0032.png"
+  },
+  {
+    "key": "Na",
+    "requested": 100,
+    "paused": false,
+    "readyState": 4,
+    "time": 100.885986,
+    "after": 100.955965,
+    "file": "Na/capture-0033.png"
+  },
+  {
+    "key": "Na",
+    "requested": 120,
+    "paused": false,
+    "readyState": 4,
+    "time": 120.420738,
+    "after": 120.489044,
+    "file": "Na/capture-0034.png"
+  },
+  {
+    "key": "Na",
+    "requested": 140,
+    "paused": false,
+    "readyState": 4,
+    "time": 139.968194,
+    "after": 140.024908,
+    "file": "Na/capture-0035.png"
+  },
+  {
+    "key": "Na",
+    "requested": 160,
+    "paused": false,
+    "readyState": 4,
+    "time": 160.738462,
+    "after": 160.779758,
+    "file": "Na/capture-0036.png"
+  },
+  {
+    "key": "Na",
+    "requested": 180,
+    "paused": false,
+    "readyState": 4,
+    "time": 180.433999,
+    "after": 180.498931,
+    "file": "Na/capture-0037.png"
+  },
+  {
+    "key": "Na",
+    "requested": 200,
+    "paused": false,
+    "readyState": 4,
+    "time": 200.149102,
+    "after": 200.209734,
+    "file": "Na/capture-0038.png"
+  },
+  {
+    "key": "Na",
+    "requested": 220,
+    "paused": false,
+    "readyState": 4,
+    "time": 221.171029,
+    "after": 221.25007,
+    "file": "Na/capture-0039.png"
+  },
+  {
+    "key": "Na",
+    "requested": 240,
+    "paused": false,
+    "readyState": 4,
+    "time": 240.608718,
+    "after": 240.714931,
+    "file": "Na/capture-0040.png"
+  },
+  {
+    "key": "Na",
+    "requested": 260,
+    "paused": false,
+    "readyState": 4,
+    "time": 261.109379,
+    "after": 261.183565,
+    "file": "Na/capture-0041.png"
+  },
+  {
+    "key": "Na",
+    "requested": 280,
+    "paused": false,
+    "readyState": 4,
+    "time": 280.78354,
+    "after": 280.849407,
+    "file": "Na/capture-0042.png"
+  },
+  {
+    "key": "Na",
+    "requested": 300,
+    "paused": false,
+    "readyState": 4,
+    "time": 300.832581,
+    "after": 300.906409,
+    "file": "Na/capture-0043.png"
+  },
+  {
+    "key": "Na",
+    "requested": 320,
+    "paused": false,
+    "readyState": 4,
+    "time": 320.053726,
+    "after": 320.111012,
+    "file": "Na/capture-0044.png"
+  },
+  {
+    "key": "Na",
+    "requested": 340,
+    "paused": false,
+    "readyState": 4,
+    "time": 340.829418,
+    "after": 340.912473,
+    "file": "Na/capture-0045.png"
+  },
+  {
+    "key": "Na",
+    "requested": 360,
+    "paused": false,
+    "readyState": 4,
+    "time": 360.379459,
+    "after": 360.435333,
+    "file": "Na/capture-0046.png"
+  },
+  {
+    "key": "Na",
+    "requested": 380,
+    "paused": false,
+    "readyState": 4,
+    "time": 379.879184,
+    "after": 379.927819,
+    "file": "Na/capture-0047.png"
+  },
+  {
+    "key": "Na",
+    "requested": 400,
+    "paused": false,
+    "readyState": 4,
+    "time": 400.827549,
+    "after": 400.901718,
+    "file": "Na/capture-0048.png"
+  },
+  {
+    "key": "Na",
+    "requested": 420,
+    "paused": false,
+    "readyState": 4,
+    "time": 421.474968,
+    "after": 421.517684,
+    "file": "Na/capture-0049.png"
+  },
+  {
+    "key": "Na",
+    "requested": 440,
+    "paused": false,
+    "readyState": 4,
+    "time": 440.119652,
+    "after": 440.194509,
+    "file": "Na/capture-0050.png"
+  },
+  {
+    "key": "Na",
+    "requested": 460,
+    "paused": false,
+    "readyState": 4,
+    "time": 460.648474,
+    "after": 460.68916,
+    "file": "Na/capture-0051.png"
+  },
+  {
+    "key": "Na",
+    "requested": 480,
+    "paused": false,
+    "readyState": 4,
+    "time": 480.316215,
+    "after": 480.358852,
+    "file": "Na/capture-0052.png"
+  },
+  {
+    "key": "Na",
+    "requested": 500,
+    "paused": false,
+    "readyState": 4,
+    "time": 501.146386,
+    "after": 501.235111,
+    "file": "Na/capture-0053.png"
+  },
+  {
+    "key": "Na",
+    "requested": 520,
+    "paused": false,
+    "readyState": 4,
+    "time": 520.684504,
+    "after": 520.74373,
+    "file": "Na/capture-0054.png"
+  },
+  {
+    "key": "Na",
+    "requested": 540,
+    "paused": false,
+    "readyState": 4,
+    "time": 540.327028,
+    "after": 540.367727,
+    "file": "Na/capture-0055.png"
+  },
+  {
+    "key": "Na",
+    "requested": 560,
+    "paused": false,
+    "readyState": 4,
+    "time": 560.797393,
+    "after": 560.85787,
+    "file": "Na/capture-0056.png"
+  },
+  {
+    "key": "Na",
+    "requested": 580,
+    "paused": false,
+    "readyState": 4,
+    "time": 580.633963,
+    "after": 580.679862,
+    "file": "Na/capture-0057.png"
+  },
+  {
+    "key": "Na",
+    "requested": 600,
+    "paused": false,
+    "readyState": 4,
+    "time": 600.14135,
+    "after": 600.277074,
+    "file": "Na/capture-0058.png"
+  },
+  {
+    "key": "Na",
+    "requested": 620,
+    "paused": false,
+    "readyState": 4,
+    "time": 621.062334,
+    "after": 621.130993,
+    "file": "Na/capture-0059.png"
+  },
+  {
+    "key": "Na",
+    "requested": 640,
+    "paused": false,
+    "readyState": 4,
+    "time": 640.6418,
+    "after": 640.730965,
+    "file": "Na/capture-0060.png"
+  },
+  {
+    "key": "Na",
+    "requested": 660,
+    "paused": false,
+    "readyState": 4,
+    "time": 660.123961,
+    "after": 660.202033,
+    "file": "Na/capture-0061.png"
+  },
+  {
+    "key": "Na",
+    "requested": 680,
+    "paused": false,
+    "readyState": 4,
+    "time": 680.942988,
+    "after": 680.991646,
+    "file": "Na/capture-0062.png"
+  },
+  {
+    "key": "Na",
+    "requested": 700,
+    "paused": false,
+    "readyState": 4,
+    "time": 700.760505,
+    "after": 700.809411,
+    "file": "Na/capture-0063.png"
+  },
+  {
+    "key": "Na",
+    "requested": 720,
+    "paused": false,
+    "readyState": 4,
+    "time": 720.223403,
+    "after": 720.292617,
+    "file": "Na/capture-0064.png"
+  },
+  {
+    "key": "Na",
+    "requested": 740,
+    "paused": false,
+    "readyState": 4,
+    "time": 740.945468,
+    "after": 740.986519,
+    "file": "Na/capture-0065.png"
+  },
+  {
+    "key": "Na",
+    "requested": 760,
+    "paused": false,
+    "readyState": 4,
+    "time": 760.7869,
+    "after": 760.855013,
+    "file": "Na/capture-0066.png"
+  },
+  {
+    "key": "Na",
+    "requested": 780,
+    "paused": false,
+    "readyState": 4,
+    "time": 780.135895,
+    "after": 780.182401,
+    "file": "Na/capture-0067.png"
+  },
+  {
+    "key": "Na",
+    "requested": 800,
+    "paused": false,
+    "readyState": 4,
+    "time": 800.881961,
+    "after": 800.935833,
+    "file": "Na/capture-0068.png"
+  },
+  {
+    "key": "Na",
+    "requested": 820,
+    "paused": false,
+    "readyState": 4,
+    "time": 820.469648,
+    "after": 820.526959,
+    "file": "Na/capture-0069.png"
+  },
+  {
+    "key": "Na",
+    "requested": 840,
+    "paused": false,
+    "readyState": 4,
+    "time": 839.557183,
+    "after": 839.628189,
+    "file": "Na/capture-0070.png"
+  },
+  {
+    "key": "Na",
+    "requested": 860,
+    "paused": false,
+    "readyState": 4,
+    "time": 860.943433,
+    "after": 861.003355,
+    "file": "Na/capture-0071.png"
+  },
+  {
+    "key": "Na",
+    "requested": 872,
+    "paused": false,
+    "readyState": 4,
+    "time": 870.874633,
+    "after": 870.914557,
+    "file": "Na/capture-0072.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 1,
+    "paused": false,
+    "readyState": 4,
+    "time": 3.51955,
+    "after": 3.657299,
+    "file": "Zhou/capture-0073.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 8,
+    "paused": false,
+    "readyState": 4,
+    "time": 9.498662,
+    "after": 9.648353,
+    "file": "Zhou/capture-0074.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 16,
+    "paused": false,
+    "readyState": 4,
+    "time": 17.260742,
+    "after": 17.314781,
+    "file": "Zhou/capture-0075.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 24,
+    "paused": false,
+    "readyState": 4,
+    "time": 25.017148,
+    "after": 25.082737,
+    "file": "Zhou/capture-0076.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 32,
+    "paused": false,
+    "readyState": 4,
+    "time": 32.633809,
+    "after": 32.704782,
+    "file": "Zhou/capture-0077.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 40,
+    "paused": false,
+    "readyState": 4,
+    "time": 41.283022,
+    "after": 41.465023,
+    "file": "Zhou/capture-0078.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 48,
+    "paused": false,
+    "readyState": 4,
+    "time": 50.811111,
+    "after": 50.88281,
+    "file": "Zhou/capture-0079.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 56,
+    "paused": false,
+    "readyState": 4,
+    "time": 56.818422,
+    "after": 56.875282,
+    "file": "Zhou/capture-0080.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 64,
+    "paused": false,
+    "readyState": 4,
+    "time": 64.625465,
+    "after": 64.677579,
+    "file": "Zhou/capture-0081.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 72,
+    "paused": false,
+    "readyState": 4,
+    "time": 73.168057,
+    "after": 73.325802,
+    "file": "Zhou/capture-0082.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 80,
+    "paused": false,
+    "readyState": 4,
+    "time": 81.951195,
+    "after": 82.063647,
+    "file": "Zhou/capture-0083.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 88,
+    "paused": false,
+    "readyState": 4,
+    "time": 89.011976,
+    "after": 89.10089,
+    "file": "Zhou/capture-0084.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 96,
+    "paused": false,
+    "readyState": 4,
+    "time": 97.54836,
+    "after": 97.653531,
+    "file": "Zhou/capture-0085.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 104,
+    "paused": false,
+    "readyState": 4,
+    "time": 105.015653,
+    "after": 105.096755,
+    "file": "Zhou/capture-0086.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 112,
+    "paused": false,
+    "readyState": 4,
+    "time": 113.284774,
+    "after": 113.344416,
+    "file": "Zhou/capture-0087.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 120,
+    "paused": false,
+    "readyState": 4,
+    "time": 120.705496,
+    "after": 120.752191,
+    "file": "Zhou/capture-0088.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 128,
+    "paused": false,
+    "readyState": 4,
+    "time": 128.764106,
+    "after": 128.836804,
+    "file": "Zhou/capture-0089.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 136,
+    "paused": false,
+    "readyState": 4,
+    "time": 136.911366,
+    "after": 137.103686,
+    "file": "Zhou/capture-0090.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 144,
+    "paused": false,
+    "readyState": 4,
+    "time": 145.198986,
+    "after": 145.272538,
+    "file": "Zhou/capture-0091.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 152,
+    "paused": false,
+    "readyState": 4,
+    "time": 153.616437,
+    "after": 153.742993,
+    "file": "Zhou/capture-0092.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 160,
+    "paused": false,
+    "readyState": 4,
+    "time": 161.072966,
+    "after": 161.159993,
+    "file": "Zhou/capture-0093.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 168,
+    "paused": false,
+    "readyState": 4,
+    "time": 169.243182,
+    "after": 169.29549,
+    "file": "Zhou/capture-0094.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 176,
+    "paused": false,
+    "readyState": 4,
+    "time": 176.885411,
+    "after": 176.9529,
+    "file": "Zhou/capture-0095.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 184,
+    "paused": false,
+    "readyState": 4,
+    "time": 185.480529,
+    "after": 185.548431,
+    "file": "Zhou/capture-0096.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 192,
+    "paused": false,
+    "readyState": 4,
+    "time": 192.95188,
+    "after": 193.043411,
+    "file": "Zhou/capture-0097.png"
+  },
+  {
+    "key": "Zhou",
+    "requested": 201,
+    "paused": false,
+    "readyState": 4,
+    "time": 202.582411,
+    "after": 202.678119,
+    "file": "Zhou/capture-0098.png"
+  }
+]

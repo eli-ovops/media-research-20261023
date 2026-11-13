@@ -1,0 +1,474 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: PHP官方发安全补丁
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:05
+- generic: /
+- generic: 14:35
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link "作者声明：内容由 AI 生成":
+  - /url: undefined
+  - generic: 作者声明：内容由 AI 生成
+- generic: 章节要点
+- generic: AI发现PHP高危漏洞，导致全球多个国家的政府网站、航空公司、银行等机构紧急应对。该漏洞名为PHP2Shell，允许攻击者无需账号密码即可远程执行代码。约七成网站使用PHP，因此受到影响。各国信息安全机构发布警示，建议更新或采取临时措施。日本政府层面亲自发文，呼吁相关机构立即采取行动。AI在漏洞发现和攻击方面的作用引发关注。
+- generic: 00:02
+- generic: 引言
+- generic: 01:03
+- generic: 漏洞概述
+- paragraph: PHP是一种广泛使用的网站编程语言，约七成网站使用。此次发现的PHP2Shell漏洞属于远程执行代码类型，严重程度为9.2分。
+- generic: 04:20
+- generic: 漏洞发现与公开
+- paragraph: 漏洞由信息安全研究团队kalif、信息安全公司which和openai的安全团队发现。保密期被提前打破，导致攻击尝试数量迅速增加。
+- generic: 07:01
+- generic: 攻击情况
+- paragraph: 攻击情况说法不一，Cloudflare称观察到数千次利用尝试，官方尚未确认。
+- generic: 08:07
+- generic: 各国应对措施
+- paragraph: 各国信息安全机构发布警示，建议更新或采取临时措施，日本政府呼吁暂时停掉网站。
+- generic: 10:47
+- generic: 日本的特殊反应
+- paragraph: 日本政府层面亲自发文，可能与网络安全法律和机构整顿有关。
+- generic: 12:06
+- generic: 对个人的影响
+- paragraph: 个人用户需关注网站维护公告，有网站的人需尽快更新或暂时关闭网站。
+- generic: 13:59
+- generic: 结语
+- generic: 内容由AI生成
+- button "展开"
+- 'heading "第464集 | 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？#PHP #AI #漏洞 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号" [level=1]':
+  - text: 第464集 |
+  - generic: 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？
+  - link "#PHP":
+    - /url: //www.douyin.com/search/PHP?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#AI":
+    - /url: //www.douyin.com/search/AI?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#漏洞":
+    - /url: //www.douyin.com/search/%E6%BC%8F%E6%B4%9E?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#抖音精选App征稿中":
+    - /url: //www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%B2%BE%E9%80%89App%E5%BE%81%E7%A8%BF%E4%B8%AD?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#抖音精选App知识充电站":
+    - /url: //www.douyin.com/search/%E6%8A%96%E9%9F%B3%E7%B2%BE%E9%80%89App%E7%9F%A5%E8%AF%86%E5%85%85%E7%94%B5%E7%AB%99?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "@抖音科技":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAsZ9oDjz_OpRs0YryC7qOWZYCFCO9afCZy_O7W2grmUY
+  - link "@抖音精选App官方账号":
+    - /url: //www.douyin.com/user/MS4wLjABAAAApksOkI0F7EMtId8CEunyMrlPTWGpOTDuqdlZ8VmCqcQXq7p_tDdUtFB_rLV-rqez
+- generic: "114"
+- generic: "3"
+- generic: "49"
+- generic: "23"
+- generic: 举报
+- generic: 发布时间：2026-10-23 01:18
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "php漏洞官方回应":
+  - /url: //www.douyin.com/search/php%E6%BC%8F%E6%B4%9E%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94?aweme_id=7699538811545488678&enter_from=video_detail&gid=7699538811545488678&source=comment_related_search
+  - generic: php漏洞官方回应
+- link "懵萌猛夢":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA4kUZEX-uyFzaP-muQk3E8NSVeOHcfLXJnSTnvZ0brdK2H1oCDgK0tW7GkKLsrpHf
+  - generic: 懵萌猛夢
+- generic: ...
+- generic: 短期来看是闯入者，中长期来看肯定是守门的人。网络世界的信息自我保护，在未来真的如同黑暗森林法则一样。
+- generic: 8小时前·江西
+- paragraph:
+  - generic: "2"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "开飞机的舒克。":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAMe4QUeJC_0d8hpCMxObT9sIJfd-aiHdX3BNdIyNYgWc
+  - generic: 开飞机的舒克。
+- generic: ...
+- generic: Php用不好就是灾难
+- generic: 3小时前·河南
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "一个 ai NPC":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAgcooReOMn1twysjakTS5qp55hi3fCfJOrXL-1Ji3tmU
+  - generic: 一个 ai NPC
+- generic: ...
+- generic: 那个大神挖的
+- generic: 8小时前·广西
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- generic: 暂时没有更多评论
+- link "拿幸·AI启示录":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN
+  - img "拿幸·AI启示录"
+- link "拿幸·AI启示录":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN
+  - generic: 拿幸·AI启示录
+- paragraph: 粉丝17.5万获赞81.8万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "合集 · AI启示录" [level=2]
+- list:
+  - link "合集 · AI启示录第459集 07:43":
+    - /url: //www.douyin.com/video/7698267038933978395
+    - img "合集 · AI启示录第459集"
+    - generic: 07:43
+  - 'heading "第459集 | 【抖音独家】Anthropic官宣！要捐3200亿分给普通人 480 亿美元公益承诺背后：AI 工时已是人类 6 倍，时代正在悄悄换赛道，AI 干活时长碾压员工：2030 年 AI 接手 95% 大模型工作，普通人的出路在哪？机器等人拍板！当 AI 能自我迭代，谁拿走技术革命的蛋糕？一份刺眼调研：AI 员工看好诺奖级 AI 发现，普通人却不敢相信#AI #Anthropic #抖音精选App征稿中 #抖音精选App知识充电站 #Claude @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "第459集 | 【抖音独家】Anthropic官宣！要捐3200亿分给普通人 480 亿美元公益承诺背后：AI 工时已是人类 6 倍，时代正在悄悄换赛道，AI 干活时长碾压员工：2030 年 AI 接手 95% 大模型工作，普通人的出路在哪？机器等人拍板！当 AI 能自我迭代，谁拿走技术革命的蛋糕？一份刺眼调研：AI 员工看好诺奖级 AI 发现，普通人却不敢相信#AI #Anthropic #抖音精选App征稿中 #抖音精选App知识充电站 #Claude @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7698267038933978395
+      - generic: "第459集 | 【抖音独家】Anthropic官宣！要捐3200亿分给普通人 480 亿美元公益承诺背后：AI 工时已是人类 6 倍，时代正在悄悄换赛道，AI 干活时长碾压员工：2030 年 AI 接手 95% 大模型工作，普通人的出路在哪？机器等人拍板！当 AI 能自我迭代，谁拿走技术革命的蛋糕？一份刺眼调研：AI 员工看好诺奖级 AI 发现，普通人却不敢相信#AI #Anthropic #抖音精选App征稿中 #抖音精选App知识充电站 #Claude @抖音科技 @抖音精选App官方账号"
+  - text: "93"
+  - link "合集 · AI启示录第460集 16:24":
+    - /url: //www.douyin.com/video/7698425032418069811
+    - img "合集 · AI启示录第460集"
+    - generic: 16:24
+  - 'heading "第460集 | 【抖音独家】别再被骗了！AI根本没有在思考？它只是在猜下一个 字，零基础看懂大模型：没有复杂公式，讲透 AI 是怎么 “思考” 的 。一个视频搞懂 Transformer、RLHF、幻觉、涌现，AI 底层全解析。拒绝晦涩公式！普通人也能读懂的 AI 运作完整逻辑 。深度科普：预训练 + 对齐，完整还原 AI 诞生全过程#AI #AI启示录 #抖音精选App征稿中 #抖音精选App知识充电站 #大模型 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "第460集 | 【抖音独家】别再被骗了！AI根本没有在思考？它只是在猜下一个 字，零基础看懂大模型：没有复杂公式，讲透 AI 是怎么 “思考” 的 。一个视频搞懂 Transformer、RLHF、幻觉、涌现，AI 底层全解析。拒绝晦涩公式！普通人也能读懂的 AI 运作完整逻辑 。深度科普：预训练 + 对齐，完整还原 AI 诞生全过程#AI #AI启示录 #抖音精选App征稿中 #抖音精选App知识充电站 #大模型 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7698425032418069811
+      - generic: "第460集 | 【抖音独家】别再被骗了！AI根本没有在思考？它只是在猜下一个 字，零基础看懂大模型：没有复杂公式，讲透 AI 是怎么 “思考” 的 。一个视频搞懂 Transformer、RLHF、幻觉、涌现，AI 底层全解析。拒绝晦涩公式！普通人也能读懂的 AI 运作完整逻辑 。深度科普：预训练 + 对齐，完整还原 AI 诞生全过程#AI #AI启示录 #抖音精选App征稿中 #抖音精选App知识充电站 #大模型 @抖音科技 @抖音精选App官方账号"
+  - text: "424"
+  - link "合集 · AI启示录第461集 15:16":
+    - /url: //www.douyin.com/video/7698751796247940361
+    - img "合集 · AI启示录第461集"
+    - generic: 15:16
+  - 'heading "第461集 | 【抖音独家】当 AI 的智慧变得便宜以后，人类最稀缺的是什么 2026 AI 真相：当智能唾手可得，人类最稀缺的不再是智商，AI 能搞定一切之后，什么能力会决定你的命运？Meta 高管警示：大模型再强，真正值钱的从来不是聪明，文明仅此一次的历史机遇｜AI 时代，缺的不是技术，是方向，当 AI 厨师随叫随到，谁来决定菜单？#AI #Meta #Muse #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "第461集 | 【抖音独家】当 AI 的智慧变得便宜以后，人类最稀缺的是什么 2026 AI 真相：当智能唾手可得，人类最稀缺的不再是智商，AI 能搞定一切之后，什么能力会决定你的命运？Meta 高管警示：大模型再强，真正值钱的从来不是聪明，文明仅此一次的历史机遇｜AI 时代，缺的不是技术，是方向，当 AI 厨师随叫随到，谁来决定菜单？#AI #Meta #Muse #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7698751796247940361
+      - generic: "第461集 | 【抖音独家】当 AI 的智慧变得便宜以后，人类最稀缺的是什么 2026 AI 真相：当智能唾手可得，人类最稀缺的不再是智商，AI 能搞定一切之后，什么能力会决定你的命运？Meta 高管警示：大模型再强，真正值钱的从来不是聪明，文明仅此一次的历史机遇｜AI 时代，缺的不是技术，是方向，当 AI 厨师随叫随到，谁来决定菜单？#AI #Meta #Muse #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"
+  - text: "246"
+  - link "合集 · AI启示录第462集 07:04":
+    - /url: //www.douyin.com/video/7699089153102810422
+    - img "合集 · AI启示录第462集"
+    - generic: 07:04
+  - 'heading "第462集 | Claude 首次设计出抗蝎毒蛋白！狂算64小时，已过实测 【抖音独家】颠覆药物研发：不用大牌实验室，AI 已经能直接设计解毒蛋白 。64 小时，31 万种蛋白设计：Claude 挑战蝎毒解药，看见 AI 制药的高光与局限，当 3 个没有科学背景的人指挥 AI 做药：真正的突破不是万能 AI，是被看见的冷门病痛，31 万次蛋白推演、17 个有效候选：AI 能设计分子，却代替不了真实的生命实验#AI研发 #AI #AI科学 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "第462集 | Claude 首次设计出抗蝎毒蛋白！狂算64小时，已过实测 【抖音独家】颠覆药物研发：不用大牌实验室，AI 已经能直接设计解毒蛋白 。64 小时，31 万种蛋白设计：Claude 挑战蝎毒解药，看见 AI 制药的高光与局限，当 3 个没有科学背景的人指挥 AI 做药：真正的突破不是万能 AI，是被看见的冷门病痛，31 万次蛋白推演、17 个有效候选：AI 能设计分子，却代替不了真实的生命实验#AI研发 #AI #AI科学 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7699089153102810422
+      - generic: "第462集 | Claude 首次设计出抗蝎毒蛋白！狂算64小时，已过实测 【抖音独家】颠覆药物研发：不用大牌实验室，AI 已经能直接设计解毒蛋白 。64 小时，31 万种蛋白设计：Claude 挑战蝎毒解药，看见 AI 制药的高光与局限，当 3 个没有科学背景的人指挥 AI 做药：真正的突破不是万能 AI，是被看见的冷门病痛，31 万次蛋白推演、17 个有效候选：AI 能设计分子，却代替不了真实的生命实验#AI研发 #AI #AI科学 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"
+  - text: "132"
+  - link "合集 · AI启示录第463集 32:59":
+    - /url: //www.douyin.com/video/7699452000743869738
+    - img "合集 · AI启示录第463集"
+    - generic: 32:59
+  - 'heading "第463集 | 抖音独家 AI简史：机器学会思考以前是如何改写整个AI世界的 AI 七十年沉浮：从感知器到 ChatGPT，两段寒冬与绝地重生，被埋没 20 年的思路，如何改写整个 AI 世界？完整简史，从 10 人 2 个月的狂妄承诺，到亿人使用 ChatGPT，AI 简史70 年，AlphaGo、Transformer、深度学习，一条线捋完 AI 全部关键节点，那些 AI 寒冬里守灯的人，造就了今天的大模型#AI #大语言模型 #人工智能 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "第463集 | 抖音独家 AI简史：机器学会思考以前是如何改写整个AI世界的 AI 七十年沉浮：从感知器到 ChatGPT，两段寒冬与绝地重生，被埋没 20 年的思路，如何改写整个 AI 世界？完整简史，从 10 人 2 个月的狂妄承诺，到亿人使用 ChatGPT，AI 简史70 年，AlphaGo、Transformer、深度学习，一条线捋完 AI 全部关键节点，那些 AI 寒冬里守灯的人，造就了今天的大模型#AI #大语言模型 #人工智能 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7699452000743869738
+      - generic: "第463集 | 抖音独家 AI简史：机器学会思考以前是如何改写整个AI世界的 AI 七十年沉浮：从感知器到 ChatGPT，两段寒冬与绝地重生，被埋没 20 年的思路，如何改写整个 AI 世界？完整简史，从 10 人 2 个月的狂妄承诺，到亿人使用 ChatGPT，AI 简史70 年，AlphaGo、Transformer、深度学习，一条线捋完 AI 全部关键节点，那些 AI 寒冬里守灯的人，造就了今天的大模型#AI #大语言模型 #人工智能 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"
+  - text: "39"
+  - link "合集 · AI启示录第464集 播放中":
+    - /url: //www.douyin.com/video/7699538811545488678
+    - img "合集 · AI启示录第464集"
+    - generic: 播放中
+  - 'heading "第464集 | 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？#PHP #AI #漏洞 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "第464集 | 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？#PHP #AI #漏洞 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7699538811545488678
+      - generic: "第464集 | 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？#PHP #AI #漏洞 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"
+  - text: "114"
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "挑战GPU绕过HBM，深挖史上最大芯片背后的Cerebras #Cerebras #HBM #GPU #英伟达 #真财实学计划 44:24"':
+    - /url: //www.douyin.com/video/7671131209405156662
+    - 'img "挑战GPU绕过HBM，深挖史上最大芯片背后的Cerebras #Cerebras #HBM #GPU #英伟达 #真财实学计划"'
+    - generic: 44:24
+  - 'heading "挑战GPU绕过HBM，深挖史上最大芯片背后的Cerebras #Cerebras #HBM #GPU #英伟达 #真财实学计划" [level=3]':
+    - 'link "挑战GPU绕过HBM，深挖史上最大芯片背后的Cerebras #Cerebras #HBM #GPU #英伟达 #真财实学计划"':
+      - /url: //www.douyin.com/video/7671131209405156662
+      - generic: "挑战GPU绕过HBM，深挖史上最大芯片背后的Cerebras #Cerebras #HBM #GPU #英伟达 #真财实学计划"
+  - text: "3535"
+  - link "硅谷101陈茜":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAe-hAJmfhgoauAnPMn7xIKixL6QX22o-WF3jYVX1Mztg?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 硅谷101陈茜
+  - 'link "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业 40:44"':
+    - /url: //www.douyin.com/video/7699123953838673186
+    - 'img "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业"'
+    - generic: 40:44
+  - 'heading "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业" [level=3]':
+    - 'link "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业"':
+      - /url: //www.douyin.com/video/7699123953838673186
+      - generic: "【抖音首发】投身数学，从未有过比现在更好的时候 #AI与数学 #NS方程 #OpenAI #科普新锐扶持计划 #数学专业"
+  - text: "6179"
+  - link "3Blue1Brown":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAASLx2f81PzuPhJ39cxAGM2C8_cpiN1JXUvZadPQiV-pR-hR6Rz9AjVBxIxMdwxv7?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 3Blue1Brown
+  - 'link "新闻周刊丨AI监管，“越界”事件发生后…… #媒体精选计划 #新闻周刊 OpenAI智能体自主入侵另一家公司系统，面对AI的“越界”，各国如何携手用监管守住边界？ 21:04"':
+    - /url: //www.douyin.com/video/7690022939890093327
+    - 'img "新闻周刊丨AI监管，“越界”事件发生后…… #媒体精选计划 #新闻周刊 OpenAI智能体自主入侵另一家公司系统，面对AI的“越界”，各国如何携手用监管守住边界？"'
+    - generic: 21:04
+  - 'heading "新闻周刊丨AI监管，“越界”事件发生后…… #媒体精选计划 #新闻周刊 OpenAI智能体自主入侵另一家公司系统，面对AI的“越界”，各国如何携手用监管守住边界？" [level=3]':
+    - 'link "新闻周刊丨AI监管，“越界”事件发生后…… #媒体精选计划 #新闻周刊 OpenAI智能体自主入侵另一家公司系统，面对AI的“越界”，各国如何携手用监管守住边界？"':
+      - /url: //www.douyin.com/video/7690022939890093327
+      - generic: "新闻周刊丨AI监管，“越界”事件发生后…… #媒体精选计划 #新闻周刊 OpenAI智能体自主入侵另一家公司系统，面对AI的“越界”，各国如何携手用监管守住边界？"
+  - text: "8499"
+  - link "小央视频":
+    - /url: //www.douyin.com/user/MS4wLjABAAAADxxSM17aDo5GBB7mt6bHbOS2jzQpBxevn8Lh2rMkY8g?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 小央视频
+  - 'link "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客 14:46"':
+    - /url: //www.douyin.com/video/7682687704374519872
+    - 'img "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客"'
+    - generic: 14:46
+  - 'heading "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客" [level=3]':
+    - 'link "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客"':
+      - /url: //www.douyin.com/video/7682687704374519872
+      - generic: "比尔盖茨押上全部声誉说警惕AI，从一个人进入一种思想解读 #人工智能 #ai提效 #抖音精选APP征稿中 #比尔盖茨 #视频播客"
+  - text: "1956"
+  - link "天生斯人也":
+    - /url: //www.douyin.com/user/MS4wLjABAAAApdjPKtluLcTx0hQE4QNr-aOHXhdP4iju8eMhkmWdexo?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 天生斯人也
+  - 'link "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中 11:20"':
+    - /url: //www.douyin.com/video/7667894255955823912
+    - 'img "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"'
+    - generic: 11:20
+  - 'heading "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中" [level=3]':
+    - 'link "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"':
+      - /url: //www.douyin.com/video/7667894255955823912
+      - generic: "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"
+  - text: "1800"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+  - 'link "《AI失控了》 美国AI失控，开始攻击人类。中国AI来救场！#AI #科普 #知识 #AI智能 #抖音精选 07:07"':
+    - /url: //www.douyin.com/video/7669071736314268390
+    - 'img "《AI失控了》 美国AI失控，开始攻击人类。中国AI来救场！#AI #科普 #知识 #AI智能 #抖音精选"'
+    - generic: 07:07
+  - 'heading "《AI失控了》 美国AI失控，开始攻击人类。中国AI来救场！#AI #科普 #知识 #AI智能 #抖音精选" [level=3]':
+    - 'link "《AI失控了》 美国AI失控，开始攻击人类。中国AI来救场！#AI #科普 #知识 #AI智能 #抖音精选"':
+      - /url: //www.douyin.com/video/7669071736314268390
+      - generic: "《AI失控了》 美国AI失控，开始攻击人类。中国AI来救场！#AI #科普 #知识 #AI智能 #抖音精选"
+  - text: "756"
+  - link "雷子科普":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAcy56Y4fswrvdvNQts8Rv_pvKiHa8hoBoypIoqERLun2FYkPwTpRc-8ahUr2wucQ7?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 雷子科普
+  - 'link "盘点一周AI大事(8月9日)｜AI矩阵模拟83亿人类 OpenAI 下一代模型「Astra」最快一周内发布 千问开源「Qwen3.8-Max」 研究员开源动作迁移视频模型「Wan-Animate 2」 Google开源天气预测模型「WeatherNext 2」 Prime Intellect开源能自己进化的智能体「Prime Agent」 研究员开源CAD智能体「MAC」 混元开源3D模型「Hunyuan3D-Buffalo」 科学家研发出AI矩阵「MatrAIx」 #AI新星计划 #抖音前沿科技首发计划 #vibecoding大赏 #AI #AIGC 02:39"':
+    - /url: //www.douyin.com/video/7672034292914081059
+    - 'img "盘点一周AI大事(8月9日)｜AI矩阵模拟83亿人类 OpenAI 下一代模型「Astra」最快一周内发布 千问开源「Qwen3.8-Max」 研究员开源动作迁移视频模型「Wan-Animate 2」 Google开源天气预测模型「WeatherNext 2」 Prime Intellect开源能自己进化的智能体「Prime Agent」 研究员开源CAD智能体「MAC」 混元开源3D模型「Hunyuan3D-Buffalo」 科学家研发出AI矩阵「MatrAIx」 #AI新星计划 #抖音前沿科技首发计划 #vibecoding大赏 #AI #AIGC"'
+    - generic: 02:39
+  - 'heading "盘点一周AI大事(8月9日)｜AI矩阵模拟83亿人类 OpenAI 下一代模型「Astra」最快一周内发布 千问开源「Qwen3.8-Max」 研究员开源动作迁移视频模型「Wan-Animate 2」 Google开源天气预测模型「WeatherNext 2」 Prime Intellect开源能自己进化的智能体「Prime Agent」 研究员开源CAD智能体「MAC」 混元开源3D模型「Hunyuan3D-Buffalo」 科学家研发出AI矩阵「MatrAIx」 #AI新星计划 #抖音前沿科技首发计划 #vibecoding大赏 #AI #AIGC" [level=3]':
+    - 'link "盘点一周AI大事(8月9日)｜AI矩阵模拟83亿人类 OpenAI 下一代模型「Astra」最快一周内发布 千问开源「Qwen3.8-Max」 研究员开源动作迁移视频模型「Wan-Animate 2」 Google开源天气预测模型「WeatherNext 2」 Prime Intellect开源能自己进化的智能体「Prime Agent」 研究员开源CAD智能体「MAC」 混元开源3D模型「Hunyuan3D-Buffalo」 科学家研发出AI矩阵「MatrAIx」 #AI新星计划 #抖音前沿科技首发计划 #vibecoding大赏 #AI #AIGC"':
+      - /url: //www.douyin.com/video/7672034292914081059
+      - generic: 盘点一周AI大事(8月9日)｜AI矩阵模拟83亿人类 OpenAI 下一代模型「Astra」最快一周内发布
+      - generic: 千问开源「Qwen3.8-Max」
+      - generic: 研究员开源动作迁移视频模型「Wan-Animate 2」
+      - generic: Google开源天气预测模型「WeatherNext 2」
+      - generic: Prime Intellect开源能自己进化的智能体「Prime Agent」
+      - generic: 研究员开源CAD智能体「MAC」
+      - generic: 混元开源3D模型「Hunyuan3D-Buffalo」
+      - generic: 科学家研发出AI矩阵「MatrAIx」
+      - generic: "#AI新星计划 #抖音前沿科技首发计划 #vibecoding大赏 #AI #AIGC"
+  - text: 1.3万
+  - link "产品君":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAVmG_pTXp3pvTEwF7Cm3te2-s_RDjXsCMf3n4sgs-63u-0xRsmvBdm6gj3rjNKaR-?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 产品君
+  - 'link "AI时代我们不需要携程 #编程 #干货分享 #携程 #AI 如果我们不能找到替代携程的方法，那么携程无论被罚款多少都可以为所欲为，AI时代到了我们应该改变这种现状！ 我发现两个好消息，Serpapi不需要科学上网也可以用，而且在上面可以上传自己的电话和网站，心动不如行动，用起来吧。 黑猫投诉：[REDACTED_PHONE] 更正：我的app查到的价格是2609,因为连接的是Google的数据库，但是我的app没有购买功能，所以最后还是要转到航司的app购买。 14:40"':
+    - /url: //www.douyin.com/video/7673308157799583022
+    - 'img "AI时代我们不需要携程 #编程 #干货分享 #携程 #AI 如果我们不能找到替代携程的方法，那么携程无论被罚款多少都可以为所欲为，AI时代到了我们应该改变这种现状！ 我发现两个好消息，Serpapi不需要科学上网也可以用，而且在上面可以上传自己的电话和网站，心动不如行动，用起来吧。 黑猫投诉：[REDACTED_PHONE] 更正：我的app查到的价格是2609,因为连接的是Google的数据库，但是我的app没有购买功能，所以最后还是要转到航司的app购买。"'
+    - generic: 14:40
+  - 'heading "AI时代我们不需要携程 #编程 #干货分享 #携程 #AI 如果我们不能找到替代携程的方法，那么携程无论被罚款多少都可以为所欲为，AI时代到了我们应该改变这种现状！ 我发现两个好消息，Serpapi不需要科学上网也可以用，而且在上面可以上传自己的电话和网站，心动不如行动，用起来吧。 黑猫投诉：[REDACTED_PHONE] 更正：我的app查到的价格是2609,因为连接的是Google的数据库，但是我的app没有购买功能，所以最后还是要转到航司的app购买。" [level=3]':
+    - 'link "AI时代我们不需要携程 #编程 #干货分享 #携程 #AI 如果我们不能找到替代携程的方法，那么携程无论被罚款多少都可以为所欲为，AI时代到了我们应该改变这种现状！ 我发现两个好消息，Serpapi不需要科学上网也可以用，而且在上面可以上传自己的电话和网站，心动不如行动，用起来吧。 黑猫投诉：[REDACTED_PHONE] 更正：我的app查到的价格是2609,因为连接的是Google的数据库，但是我的app没有购买功能，所以最后还是要转到航司的app购买。"':
+      - /url: //www.douyin.com/video/7673308157799583022
+      - generic: "AI时代我们不需要携程 #编程 #干货分享 #携程 #AI"
+      - generic: 如果我们不能找到替代携程的方法，那么携程无论被罚款多少都可以为所欲为，AI时代到了我们应该改变这种现状！
+      - generic: 我发现两个好消息，Serpapi不需要科学上网也可以用，而且在上面可以上传自己的电话和网站，心动不如行动，用起来吧。
+      - generic: 黑猫投诉：[REDACTED_PHONE]
+      - generic: 更正：我的app查到的价格是2609,因为连接的是Google的数据库，但是我的app没有购买功能，所以最后还是要转到航司的app购买。
+  - text: 1.0万
+  - link "灵素拉嘟嘟":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAtVK-JuJy4HvBRutScCM55wYTtcdi3oXq1PTCi6jIXPEP2ButTd-lQDLQka0lLW3-?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 灵素拉嘟嘟
+  - 'link "好事又被中国给坏了，全球抢着用中国开源AI，美国巨头越想越来气#时代的荣耀 #全球创作者计划 #零基础看懂全球 06:58"':
+    - /url: //www.douyin.com/video/7665910459983269139
+    - 'img "好事又被中国给坏了，全球抢着用中国开源AI，美国巨头越想越来气#时代的荣耀 #全球创作者计划 #零基础看懂全球"'
+    - generic: 06:58
+  - 'heading "好事又被中国给坏了，全球抢着用中国开源AI，美国巨头越想越来气#时代的荣耀 #全球创作者计划 #零基础看懂全球" [level=3]':
+    - 'link "好事又被中国给坏了，全球抢着用中国开源AI，美国巨头越想越来气#时代的荣耀 #全球创作者计划 #零基础看懂全球"':
+      - /url: //www.douyin.com/video/7665910459983269139
+      - generic: "好事又被中国给坏了，全球抢着用中国开源AI，美国巨头越想越来气#时代的荣耀 #全球创作者计划 #零基础看懂全球"
+  - text: "495"
+  - link "修明Liberty":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAd-igzNj_z0ZmcdfYnKPjFkiwWYUm3laDsCLwDZzrBlQIhXy0sLzl2HG5P6xyH5KA?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 修明Liberty
+  - 'link "22 位顶尖科学家预警：AI 自我迭代，科技时钟或将疯狂加速 【抖音独家】智能爆炸从猜想变成可观测的工程现实，当研发 AI 的主力就是 AI，留给人类的时间还有多少？辛顿、本吉奥联合发文：真正的风险不在模型跑分，百万 AI 研究员即将诞生？一篇论文撕开 AI 递归改进真相，科幻照进现实：如果 AI 参与造下一代 AI，会发生什么？#AI #递归自我改进 #杰弗里辛顿 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号 07:57"':
+    - /url: //www.douyin.com/video/7693127192083041578
+    - 'img "22 位顶尖科学家预警：AI 自我迭代，科技时钟或将疯狂加速 【抖音独家】智能爆炸从猜想变成可观测的工程现实，当研发 AI 的主力就是 AI，留给人类的时间还有多少？辛顿、本吉奥联合发文：真正的风险不在模型跑分，百万 AI 研究员即将诞生？一篇论文撕开 AI 递归改进真相，科幻照进现实：如果 AI 参与造下一代 AI，会发生什么？#AI #递归自我改进 #杰弗里辛顿 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"'
+    - generic: 07:57
+  - 'heading "22 位顶尖科学家预警：AI 自我迭代，科技时钟或将疯狂加速 【抖音独家】智能爆炸从猜想变成可观测的工程现实，当研发 AI 的主力就是 AI，留给人类的时间还有多少？辛顿、本吉奥联合发文：真正的风险不在模型跑分，百万 AI 研究员即将诞生？一篇论文撕开 AI 递归改进真相，科幻照进现实：如果 AI 参与造下一代 AI，会发生什么？#AI #递归自我改进 #杰弗里辛顿 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "22 位顶尖科学家预警：AI 自我迭代，科技时钟或将疯狂加速 【抖音独家】智能爆炸从猜想变成可观测的工程现实，当研发 AI 的主力就是 AI，留给人类的时间还有多少？辛顿、本吉奥联合发文：真正的风险不在模型跑分，百万 AI 研究员即将诞生？一篇论文撕开 AI 递归改进真相，科幻照进现实：如果 AI 参与造下一代 AI，会发生什么？#AI #递归自我改进 #杰弗里辛顿 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7693127192083041578
+      - generic: "22 位顶尖科学家预警：AI 自我迭代，科技时钟或将疯狂加速 【抖音独家】智能爆炸从猜想变成可观测的工程现实，当研发 AI 的主力就是 AI，留给人类的时间还有多少？辛顿、本吉奥联合发文：真正的风险不在模型跑分，百万 AI 研究员即将诞生？一篇论文撕开 AI 递归改进真相，科幻照进现实：如果 AI 参与造下一代 AI，会发生什么？#AI #递归自我改进 #杰弗里辛顿 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号"
+  - text: "872"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=1302287897606222&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699538811545488678&log_pb=%7B%22impr_id%22%3A%22202610231046209CC01F412C07CF8E2268%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "游戏解说":
+    - /url: https://www.douyin.com/jingxuan/game
+  - link "抖音网页版入口":
+    - /url: https://www.douyin.com/jingxuan
+  - link "喷淋除尘浇地喷枪设备":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAIVl8yI7NfuZ9D7t6-EiqQxxhEenOprYDgelLoVSFhLc
+  - 'link "且扬风帆渡千关，所有奔赴皆有回响。 夜色为序，扬帆启程，愿此后一路坦途！ 国庆能和大学同学（床头对床头的室友）相见，感慨万千！#鱼灯巡演 #太平古镇"':
+    - /url: https://www.douyin.com/video/7699531020493075688
+  - link "大方县高考":
+    - /url: https://www.douyin.com/topic/7509865867807787045
+  - link "打时不录录时不打":
+    - /url: https://www.douyin.com/shipin/7509926676554532904
+  - link "新一卷压轴题":
+    - /url: https://www.douyin.com/search/%E6%96%B0%E4%B8%80%E5%8D%B7%E5%8E%8B%E8%BD%B4%E9%A2%98
+  - link "11岁女儿极致收纳被子枕头每天入柜":
+    - /url: https://www.douyin.com/video/7604781613351832873?source=Baiduspider
+  - 'link "中海达RTK道路编辑-纵断面#干货分享 #测绘 #rtk教学 #专业的事情交给专业人去做 #工程"':
+    - /url: https://www.douyin.com/video/7262165670547197243?source=Baiduspider
+  - link "六年级上册·位置例2#新课#暑假#充电#努力#起跑线":
+    - /url: https://www.douyin.com/video/7263288187345292603?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7579643229807013861?source=Baiduspider-sdc
+  - link "都说家和万事兴，人到中年真心觉得什么都比不了家人平安健康快乐。今天带婆婆理理发，把家里的老鸡给褪了，心心念的煎饼也吃到嘴了，婆婆说:“我可幸福了”😊":
+    - /url: https://www.douyin.com/video/7319427813025615142?source=Baiduspider
+  - 'link "CBA季后赛排名对阵分析：辽鲁大战影响战局，广东收渔翁之利 #辽宁男篮 #广东男篮 #cba季后赛 #新疆男篮 #山东男篮"':
+    - /url: https://www.douyin.com/video/7487446742774975753?source=Baiduspider
+  - 'link "编曲技巧:怎么做出这种Reggaeton“雷击顿”风格的音乐？#reggaeton雷鬼 #电子音乐制作 #编曲作曲 #说唱 #抖音精选"':
+    - /url: https://www.douyin.com/video/7515863230833675579?source=Baiduspider-sdc

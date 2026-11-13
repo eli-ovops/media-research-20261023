@@ -1,0 +1,15 @@
+{
+  "content_id": "php-ai-vulnerability-20261023",
+  "destination_thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "tool_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  },
+  "pmo_received": "NOT_VERIFIED",
+  "pmo_accepted": "NOT_VERIFIED"
+}

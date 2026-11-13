@@ -1,0 +1,46 @@
+[
+  {
+    "args": [
+      "start",
+      "--content",
+      "php-ai-vulnerability-20261023",
+      "--pmo",
+      "01a11194-c40d-7bf0-8396-5bb5d6449444",
+      "--authorization-source",
+      "本聊天2026-10-23用户提供三条抖音视频，明确：查看这些视频，有关php漏洞可以讲一期。仅研究并判断选题。"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"saved\": true, \"active_content\": \"php-ai-vulnerability-20261023\"}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "release",
+      "--content",
+      "php-ai-vulnerability-20261023",
+      "--stage",
+      "01",
+      "--pmo",
+      "01a11194-c40d-7bf0-8396-5bb5d6449444",
+      "--input",
+      "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/01-三视频与原事件研究任务.md"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"saved\": true, \"active_content\": \"php-ai-vulnerability-20261023\"}\n",
+    "stderr": ""
+  },
+  {
+    "args": [
+      "check",
+      "--content",
+      "php-ai-vulnerability-20261023",
+      "--stage",
+      "01",
+      "--thread",
+      "01a11442-a6d9-7413-88b3-191ce5cb037b"
+    ],
+    "exit_code": 0,
+    "stdout": "{\"allowed\": true, \"content\": \"php-ai-vulnerability-20261023\", \"stage\": \"01\"}\n",
+    "stderr": ""
+  }
+]

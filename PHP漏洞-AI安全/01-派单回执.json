@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-23T10:46:08.258111+08:00",
+  "content_id": "php-ai-vulnerability-20261023",
+  "thread_id": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "tool_send_accepted": true,
+  "tool_return": {
+    "threadId": "01a11442-a6d9-7413-88b3-191ce5cb037b"
+  },
+  "gate_initialized_before_send": true,
+  "owner_completion_report": "PENDING",
+  "pmo_business_review": "PENDING"
+}

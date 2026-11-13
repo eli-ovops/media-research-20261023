@@ -1,0 +1,58 @@
+{
+  "content_id": "php-ai-vulnerability-20261023",
+  "stage": "01",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "date": "2026-10-23 Asia/Shanghai",
+  "decision": "TOPIC_ASSESSMENT_ACCEPTED_WITH_REFERENCE_MEDIA_GAP",
+  "formal_stage_pass": false,
+  "owner_report_received": true,
+  "owner_report_transport": "本聊天收到01真实codex_app.send_message_to_thread工具消息；不是仅文件存在或Owner自述发送成功。",
+  "outputs": [
+    {
+      "name": "三视频核验与选题建议.md",
+      "sha256": "55391cf3ee2128c8783325d5eb0fdac84f8350e44dd86ceb27503a8e8ef5712e"
+    },
+    {
+      "name": "原事件事实表.md",
+      "sha256": "0f4a7481a6a16cca8bcd2b3795ad439835349902f587bb48f3ee5796e4d21d76"
+    },
+    {
+      "name": "读取覆盖与素材清单.json",
+      "sha256": "37057ddcbe9eac0fd85a0b287a73c0360fe7b1d3fb66a08727f410467b4c526f"
+    }
+  ],
+  "evidence_read": [
+    "实际读取01三份报告，三个SHA与工具报告一致；读取实际下载错误原文、数量与读取层记录。",
+    "PMO实际查看Fan/sheet-1.jpg、Na/sheet-5.jpg、Zhou/sheet-1.jpg共18个时点采样；01报告其已实际查看98个时点和18张拼图，PMO没有重复全量查看，也没有把Owner覆盖写成自己的连续观看。",
+    "实际打开并读PHP官方、Wiz、OpenAI、JPCERT、荷兰政府、荷兰司法机构、日本JOGMEC及PHP Foundation有关正文；详见PMO-一手来源复核.json。"
+  ],
+  "accepted_scope": [
+    "三条准确视频身份与同一PHP2Shell事件的对应，以及已读采样所显示的内容推进。",
+    "选题成立：AI辅助发现和验证长期代码缺陷，与机构预防性停站、维护者协调修复的真实事件，有官方原件支撑。",
+    "可用荷兰及日本具体机构作例子；2026-10-21公布修复，部分网站已恢复，不把旧停站报道改成当前集体瘫痪。",
+    "推荐75至100秒一条因果链，以普通人能理解的共用基础组件解释影响。"
+  ],
+  "remaining_required_work": [
+    "用户指定三条原片的完整音轨、整段转录与连续声画未获得，原生导出各一次action_failed。此部分不能填PASS，不能宣称已完整看完。"
+  ],
+  "excluded_unverified_claims": [
+    "芬兰具体机构关停原件及NCSC自身官网下线回执。",
+    "七成网站被攻破、政府全停、AI自主攻击政府、史上首次、未经核实的88万台及模型榜单。",
+    "360产品的独立效果及完整免费条款；无本人测试。"
+  ],
+  "observed_corrections": [
+    "Na约480.32秒区分攻击尝试与成功，约580.63秒说预防措施；Zhou约25.02秒也说预防性关站，不能只依标题批判三位作者都误称攻破。",
+    "PHP Foundation说明2024已有相关线索；AI贡献需按研究者、模型、维护者实际归属，不能讲成人类完全没发现。",
+    "PMO复核文件后来已成功落盘，01报告其早先读取时不存在不代表当前缺失；两者保持时间区别。"
+  ],
+  "downstream_release": {
+    "02": false,
+    "04": false,
+    "05": false,
+    "06": false
+  },
+  "full_script_authorized": false,
+  "production_authorized": false,
+  "publication_authorized": false,
+  "next_action": "向用户交选题判断和推荐角度及准确读取限制；不因可做一期自动写全文或制作。不再重试失败媒体导出。"
+}

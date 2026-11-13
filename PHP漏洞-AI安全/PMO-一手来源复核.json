@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-23 Asia/Shanghai",
+  "scope": "PMO有限一手来源复核，含荷兰、芬兰、日本具体机构下线/恢复及美国NSA警报，非三条原片完整读取。",
+  "method": "web exact pages opened and relevant body read",
+  "sources": [
+    {
+      "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+      "publisher": "PHP Group",
+      "date": "2026-10-21",
+      "verified_claims": [
+        "两项漏洞CVE-2026-109618与CVE-2026-109619，可导致未登录远程代码执行。",
+        "修复版8.5.12、8.4.27、8.3.36、8.2.35已发布。",
+        "官方把提供web请求的PHP部署列入风险范围，指出mod_php已证实的攻击路径甚至早于应用代码运行；不等于所有部署已经被入侵。"
+      ]
+    },
+    {
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "publisher": "Wiz Research，披露方自述",
+      "date": "2026-10-21",
+      "verified_claims": [
+        "作者说明前沿AI帮助发现并研究长期存在的PHP核心内存安全缺陷，涉及多种漏洞实例、两个CVE。",
+        "实验展示在若干WordPress、Drupal、Joomla部署上无需登录的远程代码执行；不能把实验演示当政府网站实际遭入侵。",
+        "标题70%互联网对应PHP生态覆盖说法，不能当70%网站已被攻破。"
+      ]
+    },
+    {
+      "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+      "publisher": "JPCERT/CC",
+      "date": "2026-10-22",
+      "verified_claims": [
+        "针对两CVE发布升级和调查提醒；本文本本身不证明日本政府网站集体关停。"
+      ]
+    },
+    {
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "publisher": "OpenAI，项目参与方自述",
+      "date": "2026-10-21",
+      "verified_claims": [
+        "明确称Calif使用GPT-5.6 Sol发现关键缺陷，Wiz也独立发现并报告两项漏洞。",
+        "PHP维护者主导修复和发布，多方研究与协调；不能写成单模型独立完成或AI主动攻击政府。",
+        "其声称据其所知AI在攻击者之前发现，为防守方准备补丁争取时间；此为参与方认知边界，非全网无攻击的独立证明。"
+      ]
+    },
+    {
+      "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/21/aantal-websites-rijksoverheid-preventief-offline-na-kwetsbaarheden-php",
+      "publisher": "荷兰政府Rijksoverheid",
+      "date": "2026-10-21 15:13，页面含补丁可用更新",
+      "verified_claims": [
+        "多个政府网站因两项PHP漏洞预防性下线，举例Overheid.nl、MijnOverheid.nl、DigiD。",
+        "通告发布时称未有主动利用迹象；预防下线不能写成已遭攻破。",
+        "大量政府站点未用PHP并未受到同样影响，不是整个国家网站全关。"
+      ]
+    },
+    {
+      "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/raad-voor-de-rechtspraak/nieuws/2026/10/enkele-rechtspraak-websites-vanwege-php-kwetsbaarheid-tijdelijk-offline",
+      "publisher": "荷兰司法机构Rechtspraak",
+      "date": "2026-10-21；2026-10-22 13:52更新",
+      "verified_claims": [
+        "部分招聘/培训网站及记者资料邮箱曾预防性下线；更新称已恢复。",
+        "主要Rechtspraak.nl和Mijn Rechtspraak不使用PHP，始终可用。"
+      ]
+    },
+    {
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "publisher": "The PHP Foundation，修复方复盘",
+      "date": "2026-10-21",
+      "verified_claims": [
+        "2024年已有OOM问题线索和潜在利用理论，但未找到具体路径；修复受兼容性、性能、扩展协调、资源和决策障碍影响。",
+        "2026年Calif等研究者的报告明确实际影响，随后优先修复；不能说人类两年毫无发现或一个AI无人工参与瞬间完成。",
+        "基金会称每个决定和每份补丁都有人参与，AI辅助发现和验证不能替代所有维护工作。"
+      ]
+    },
+    {
+      "url": "https://www.ruokavirasto.fi/tietoa-meista/asiointi/uutiset/osa-ruokaviraston-palveluista-suljettuna/",
+      "publisher": "芬兰食品管理局Ruokavirasto",
+      "date": "2026-10-21；2026-10-22 11:30恢复更新",
+      "verified_claims": [
+        "部分办事服务因PHP漏洞于10月21至22日暂停，措施用于保护服务，未发现漏洞被利用。",
+        "22日11:30更新称相关服务均已恢复。仅支持具体机构及部分服务，非芬兰政府全部瘫痪。"
+      ]
+    },
+    {
+      "url": "https://www.nsa.gov/press-room/press-releases-statements/press-release-view/article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/",
+      "publisher": "美国NSA",
+      "date": "2026-10-21",
+      "verified_claims": [
+        "针对PHP2Shell发警报，要求政府部门及机构立即修补。",
+        "建议无法立即更新的组织先将相关系统下线直至可缓解；建议不等于已实际停站的回执。"
+      ]
+    },
+    {
+      "url": "https://www.jogmec.go.jp/news/information/information_00710.html",
+      "publisher": "日本独立行政法人JOGMEC",
+      "date": "2026-10-22",
+      "verified_claims": [
+        "官网及JOGMEC JOURNAL因处理PHP漏洞一度暂停，完成必要安全措施及确认后，于当日13:20恢复公开。",
+        "仅证明这家具体机构的暂停/恢复，不能扩大成日本政府网站集体瘫痪或确认遭入侵。"
+      ]
+    }
+  ],
+  "not_verified": [
+    "三条抖音原片完整内容和连续视听",
+    "各国关停总数量；美国政府网站已实际停站的具体回执；任何政府站点因本漏洞已确认被入侵",
+    "360宣传工具的实际能力和本机实测"
+  ],
+  "no_actions": "未下载大模型，无POC、扫描、攻击，无服务器改动，无发布。"
+}

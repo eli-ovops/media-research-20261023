@@ -1,0 +1,605 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友 1":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+  - generic: "1"
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: php是什么
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:12
+- generic: /
+- generic: 03:23
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link "作者声明：内容由 AI 生成":
+  - /url: undefined
+  - generic: 作者声明：内容由 AI 生成
+- generic: 章节要点
+- generic: PHP爆出两个严重漏洞，导致多国政府网站紧急关停。AI加速了漏洞挖掘速度，安全团队修复准备时间长且漏洞消息提前泄露。360复现漏洞并提供安全体检服务，同时强调未来需建立更强大的安全智能体军团应对AI攻击。
+- generic: 00:01
+- generic: PHP漏洞事件
+- paragraph: PHP爆出两个严重漏洞，多国政府网站紧急关停，黑客可利用漏洞窃取敏感信息。
+- generic: 01:15
+- generic: AI的影响
+- paragraph: AI加速漏洞挖掘，安全团队修复准备时间长，漏洞消息提前泄露。
+- generic: 01:56
+- generic: 360的应对措施
+- paragraph: 360复现漏洞，免费开放图龙锋安全体检服务，累计挖掘漏洞超过1.5万个。
+- generic: 02:24
+- generic: 未来挑战与应对
+- paragraph: 未来黑客可能利用AI攻击，需建立更强大的安全智能体军团应对。
+- generic: 内容由AI生成
+- 'heading "第456集 | PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检! #大有学问 #网络安全 #红衣聊AI #php高危漏洞遭泄露 #AI" [level=1]':
+  - text: 第456集 |
+  - generic: PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检!
+  - link "#大有学问":
+    - /url: //www.douyin.com/search/%E5%A4%A7%E6%9C%89%E5%AD%A6%E9%97%AE?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#网络安全":
+    - /url: //www.douyin.com/search/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#红衣聊AI":
+    - /url: //www.douyin.com/search/%E7%BA%A2%E8%A1%A3%E8%81%8AAI?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#php高危漏洞遭泄露":
+    - /url: //www.douyin.com/search/php%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E%E9%81%AD%E6%B3%84%E9%9C%B2?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#AI":
+    - /url: //www.douyin.com/search/AI?enter_from=video_detail&source=pc_click_hashtag_feed
+- generic: "5598"
+- generic: "165"
+- generic: "513"
+- generic: "301"
+- generic: 举报
+- generic: 发布时间：2026-10-22 19:30
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "php是什么":
+  - /url: //www.douyin.com/search/php%E6%98%AF%E4%BB%80%E4%B9%88?aweme_id=7699453193079557386&enter_from=video_detail&gid=7699453193079557386&source=comment_related_search
+  - generic: php是什么
+- link "杰杰仔":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAmC5Utg7K7PJkEZQNSWoTdkmGU9nncnqzmmIAdmhXaTA
+  - generic: 杰杰仔
+- generic: ...
+- generic: 你的360怎么做不了龙头？你说说？
+- generic: 19分钟前·广东
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "彤爷":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAi0EEHlnD_eXkQebf8AZohOXCxYs4XscZWMarcm6DQN4
+  - generic: 彤爷
+- generic: ...
+- generic: 像中国长城一样，建立独立的服务器操作系统， 实现物理硬隔离。
+- generic: 3小时前·浙江
+- paragraph:
+  - generic: "5"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "巍风画意":
+  - /url: //www.douyin.com/user/MS4wLjABAAAANxgBEYdzE_2mzFnsgh0KbWdCFFQsiN0cYuW0Gw-3Eyn_-snTBgfQ54V1jImM5NxB
+  - generic: 巍风画意
+- generic: ...
+- generic: 中国可以没有腾讯，但是不能没有360
+- generic: 4小时前·广东
+- paragraph:
+  - generic: "31"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "传统按摩":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAqDcLnsEzoYoBvqXIyNf3d7t4cttkaP_2IEKjwhqIvQgTlnTXIRiddvuvmTRCi6iG
+  - generic: 传统按摩
+- generic: ...
+- text: 喷老周的黑粉，出来走两步？燕雀安知鸿鹄之志！为老周爱国情怀点赞
+- img "[赞]"
+- img "[666]"
+- generic: 14小时前·江苏
+- paragraph:
+  - generic: "5"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "ddmouse":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA7Yvm-brk6GO7K9bK_9HqM7_kHKPK7Ov9kxxegDV8Gy4
+  - generic: ddmouse
+- generic: ...
+- text: 统一互联网开始，重开世界格局之门
+- img "[偷笑]"
+- img "[偷笑]"
+- img "[偷笑]"
+- generic: 2小时前·北京
+- paragraph:
+  - generic: "3"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "端一杯水等":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjvGAoiCS2r058-wQBXlcitGvR3CuZwwONOPPXDU37WNvpyhDFmJpoShXM1oR7Jmq
+  - generic: 端一杯水等
+- generic: ...
+- generic: 360这波公益操作值得点赞，给网站安全加了道防火墙
+- generic: 10小时前·陕西
+- paragraph:
+  - generic: "4"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "得闲饮茶啊！":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAknQe6OqEPNV4eREqV487KGPn7erU6uruCtyDBYRXTFfa6ZpPUnBEWFjPtjlQAyDu
+  - generic: 得闲饮茶啊！
+- generic: ...
+- generic: 电脑要安装 360，就像攀岩必须绑安全绳一样
+- generic: 2小时前·广东
+- paragraph:
+  - generic: "6"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "心中有爱":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA1DIidqXVLbdk8WMwbdhRF-aTo9_1fOG7jOCZHxu7apiNGX3UED4FAa9sQ-EKbdu_
+  - generic: 心中有爱
+- generic: ...
+- generic: PHP：我老了，但还能吓全世界一跳。
+- generic: 14小时前·河北
+- paragraph:
+  - generic: "82"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "农夫三拳有点疼":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAu96bBsyvbbl1vPjrs9tSSrWTa-QA3MlTAbgzWBAQjCaQk6GDWrVbJxuO7eI7tXS_
+  - generic: 农夫三拳有点疼
+- generic: ...
+- text: 昨晚把我搞加班
+- img "[懵]"
+- generic: 11小时前·江苏
+- paragraph:
+  - generic: "46"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开2条回复":
+  - generic: 展开2条回复
+- link "昔聞":
+  - /url: //www.douyin.com/user/MS4wLjABAAAARGHeY5XgfU01Barro40dUMTz_JGF8NH0pJq-ahTSH999KZR6ra2Af4D6o4o3Ne0U
+  - generic: 昔聞
+- generic: ...
+- generic: 明天拉涨停。
+- generic: 11小时前·四川
+- paragraph:
+  - generic: "3"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "阿禾说书-（儿童教育版）":
+  - /url: //www.douyin.com/user/MS4wLjABAAAARWggYm98Krdeyv_-GQvytm_Z9Hd-pN7AG-vKTMoArCa2o4YEaB_TILm1ZziqtxHl
+  - generic: 阿禾说书-（儿童教育版）
+- generic: ...
+- generic: 搞网络的几个朋友下午还在一起说这件事，如果真的被大规模利用漏洞进行攻击的确会造成很大损失和影响。虽然我不用360的软件，但这次的确应该为你点赞。
+- generic: 14小时前·广东
+- paragraph:
+  - generic: "4"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "子弹":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAkS8ZKsdpETThcX08xq0TdmBgc6OlIOr7OLl2xGFNDDA
+  - generic: 子弹
+- generic: ...
+- text: 红衣出征，寸草不生。牛逼
+- img "[赞]"
+- generic: 15小时前·陕西
+- paragraph:
+  - generic: "6"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "瞎胡诌":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA6awOynqbwiMX5tNGd0_G2EpuGtvwhegT8pceDZXFw5xk4EbkYclCbLv-dibRgD0a
+  - generic: 瞎胡诌
+- generic: ...
+- generic: 未来最重要武器就是如何彻底摧毁互联网物理设备
+- generic: 14小时前·上海
+- paragraph:
+  - generic: "8"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "A知足常乐":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAu3FEWahFyQirRT_I6L2Lx8QP4MPmwYqcdPsUo74Kj04
+  - generic: A知足常乐
+- generic: ...
+- generic: 伊朗炸海底光缆了？
+- generic: 1小时前·江苏
+- paragraph:
+  - generic: "3"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "汪大大":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAe288cJ9vm686HpESQE2Lej21NELBYn08fK8Y3W6Dqd7oJtsqYma2xwtuh4suR4qt
+  - generic: 汪大大
+- generic: ...
+- generic: 360就是那个国家队。不管你们喜不喜欢，360让你的电脑变得更加安全。
+- generic: 13小时前·江苏
+- paragraph:
+  - generic: "76"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开9条回复":
+  - generic: 展开9条回复
+- generic: 加载中
+- link "红衣大叔周鸿祎":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAJ3T5moYwIGWeicRl5wBdfosV7R_dCmIbcmAIVZ_3iLK3aLLrOq9pWQDaZBfU0kpQ
+  - img "红衣大叔周鸿祎"
+- link "红衣大叔周鸿祎 认证徽章":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAJ3T5moYwIGWeicRl5wBdfosV7R_dCmIbcmAIVZ_3iLK3aLLrOq9pWQDaZBfU0kpQ
+  - generic: 红衣大叔周鸿祎
+  - generic: 认证徽章
+- paragraph: 粉丝1473.0万获赞1.2亿
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "红衣聊AI" [level=2]
+- list:
+  - link "红衣聊AI第451集 04:00":
+    - /url: //www.douyin.com/video/7698030457841093931
+    - img "红衣聊AI第451集"
+    - generic: 04:00
+  - 'heading "第451集 | AI病毒开始繁殖后代，甚至学会给下一代留遗书？ #大有学问 #红衣聊AI #网络安全 #anthropic" [level=3]':
+    - 'link "第451集 | AI病毒开始繁殖后代，甚至学会给下一代留遗书？ #大有学问 #红衣聊AI #网络安全 #anthropic"':
+      - /url: //www.douyin.com/video/7698030457841093931
+      - generic: "第451集 | AI病毒开始繁殖后代，甚至学会给下一代留遗书？ #大有学问 #红衣聊AI #网络安全 #anthropic"
+  - text: 1.5万
+  - link "红衣聊AI第452集 04:00":
+    - /url: //www.douyin.com/video/7698590300360445194
+    - img "红衣聊AI第452集"
+    - generic: 04:00
+  - 'heading "第452集 | 中国AI，有笔帐必须算清楚！ #大有学问 #红衣聊AI #AI时代 #算力 #芯片" [level=3]':
+    - 'link "第452集 | 中国AI，有笔帐必须算清楚！ #大有学问 #红衣聊AI #AI时代 #算力 #芯片"':
+      - /url: //www.douyin.com/video/7698590300360445194
+      - generic: "第452集 | 中国AI，有笔帐必须算清楚！ #大有学问 #红衣聊AI #AI时代 #算力 #芯片"
+  - text: 1.1万
+  - link "红衣聊AI第453集 03:30":
+    - /url: //www.douyin.com/video/7698966187446652210
+    - img "红衣聊AI第453集"
+    - generic: 03:30
+  - 'heading "第453集 | 数学末日？！AI一夜攻克数百道难题！ #大有学问 #数学 #数学难题 #openAI" [level=3]':
+    - 'link "第453集 | 数学末日？！AI一夜攻克数百道难题！ #大有学问 #数学 #数学难题 #openAI"':
+      - /url: //www.douyin.com/video/7698966187446652210
+      - generic: "第453集 | 数学末日？！AI一夜攻克数百道难题！ #大有学问 #数学 #数学难题 #openAI"
+  - text: 1.0万
+  - link "红衣聊AI第454集 03:28":
+    - /url: //www.douyin.com/video/7699063666330668351
+    - img "红衣聊AI第454集"
+    - generic: 03:28
+  - 'heading "第454集 | 美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型" [level=3]':
+    - 'link "第454集 | 美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型"':
+      - /url: //www.douyin.com/video/7699063666330668351
+      - generic: "第454集 | 美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型"
+  - text: 1.1万
+  - link "红衣聊AI第455集 03:34":
+    - /url: //www.douyin.com/video/7699328244566330639
+    - img "红衣聊AI第455集"
+    - generic: 03:34
+  - 'heading "第455集 | AI新型攻击！竟像病毒一样传播恶意指令！ #大有学问 #红衣聊AI #网络病毒 #网络安全 #代码" [level=3]':
+    - 'link "第455集 | AI新型攻击！竟像病毒一样传播恶意指令！ #大有学问 #红衣聊AI #网络病毒 #网络安全 #代码"':
+      - /url: //www.douyin.com/video/7699328244566330639
+      - generic: "第455集 | AI新型攻击！竟像病毒一样传播恶意指令！ #大有学问 #红衣聊AI #网络病毒 #网络安全 #代码"
+  - text: "2386"
+  - link "红衣聊AI第456集 播放中":
+    - /url: //www.douyin.com/video/7699453193079557386
+    - img "红衣聊AI第456集"
+    - generic: 播放中
+  - 'heading "第456集 | PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检! #大有学问 #网络安全 #红衣聊AI #php高危漏洞遭泄露 #AI" [level=3]':
+    - 'link "第456集 | PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检! #大有学问 #网络安全 #红衣聊AI #php高危漏洞遭泄露 #AI"':
+      - /url: //www.douyin.com/video/7699453193079557386
+      - generic: "第456集 | PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检! #大有学问 #网络安全 #红衣聊AI #php高危漏洞遭泄露 #AI"
+  - text: "5598"
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会 42:01"':
+    - /url: //www.douyin.com/video/7675266052544023871
+    - 'img "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会"'
+    - generic: 42:01
+  - 'heading "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会" [level=3]':
+    - 'link "为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀\"AI秒出20篇论文\"\"AI无痛设计海报\"，可为什么你用起来却像个“人工智障”？ 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？ 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！ 如果你也在\"AI太强大了我不配\"和\"这玩意根本不好用\"之间反复横跳，本期或许会治好你的自我怀疑。 【本期嘉宾】 刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会"':
+      - /url: //www.douyin.com/video/7675266052544023871
+      - generic: 为什么我不推荐下班学AI？人和人的差距从来不是工具！ 网上人人都在秀"AI秒出20篇论文""AI无痛设计海报"，可为什么你用起来却像个“人工智障”？
+      - generic: 当AI能替你写作业、写论文、写代码，我们最该担心的是什么？
+      - generic: 本期邀请到南大教授刘嘉，聊聊AI真相：你网上看到的所有AI demo，可能是测了100次里最好的1次；AI也不会让你更轻松，它只会让你更忙！
+      - generic: 如果你也在"AI太强大了我不配"和"这玩意根本不好用"之间反复横跳，本期或许会治好你的自我怀疑。
+      - generic: 【本期嘉宾】
+      - generic: "刘嘉，南京大学软件学院副院长，教授，博士生导师。从事群体智能，智能软件的测试和质量保障的教学、研究和应用。主持承担国家自然科学基金、科技部重大研发计划等多项科学研究，研究成果在华为、百度、阿里等一线企业中得到转化和应用。#AI #大模型 #商业 #抖音创作者大会"
+  - text: "2810"
+  - link "野说商业 Yeah’s talk":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA3zdAtT9Dlo3Co7tJt0hGHufphN5rdpAq1jQBJ0KrB0s?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 野说商业 Yeah’s talk
+  - 'link "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中 11:20"':
+    - /url: //www.douyin.com/video/7667894255955823912
+    - 'img "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"'
+    - generic: 11:20
+  - 'heading "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中" [level=3]':
+    - 'link "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"':
+      - /url: //www.douyin.com/video/7667894255955823912
+      - generic: "【抖音独家】MCP月下载量突破4亿，Claude 大规模升级 月下载破 4 亿！MCP 重磅重构，AI 智能体迎来属于自己的 HTTP 时代，不堆参数不刷跑分，这套底层协议，才是智能体时代真正基石，告别黏滞会话！MCP 改为无状态架构，AI 服务轻松弹性扩容#MCP #AI #vibecoding大赏 #ai新星计划 @抖音精选App官方账号 @抖音科技 #抖音精选App征稿中"
+  - text: "1800"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+  - 'link "美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型 03:28"':
+    - /url: //www.douyin.com/video/7699063666330668351
+    - 'img "美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型"'
+    - generic: 03:28
+  - 'heading "美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型" [level=3]':
+    - 'link "美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型"':
+      - /url: //www.douyin.com/video/7699063666330668351
+      - generic: "美国封杀DeepSeek，真正怕的是什么？ #大有学问 #deepseek #红衣聊AI #大模型"
+  - text: 1.1万
+  - link "红衣大叔周鸿祎":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAJ3T5moYwIGWeicRl5wBdfosV7R_dCmIbcmAIVZ_3iLK3aLLrOq9pWQDaZBfU0kpQ?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 红衣大叔周鸿祎
+  - 'link "全球Agent大战开打，中国现在到底什么水平？ #大有学问 #agent #人工智能 04:00"':
+    - /url: //www.douyin.com/video/7687806855808126227
+    - 'img "全球Agent大战开打，中国现在到底什么水平？ #大有学问 #agent #人工智能"'
+    - generic: 04:00
+  - 'heading "全球Agent大战开打，中国现在到底什么水平？ #大有学问 #agent #人工智能" [level=3]':
+    - 'link "全球Agent大战开打，中国现在到底什么水平？ #大有学问 #agent #人工智能"':
+      - /url: //www.douyin.com/video/7687806855808126227
+      - generic: "全球Agent大战开打，中国现在到底什么水平？ #大有学问 #agent #人工智能"
+  - text: 2.3万
+  - link "红衣大叔周鸿祎":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAJ3T5moYwIGWeicRl5wBdfosV7R_dCmIbcmAIVZ_3iLK3aLLrOq9pWQDaZBfU0kpQ?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 红衣大叔周鸿祎
+  - 'link "AI造反了？它潜伏3天自己砸开了笼子 2026年7月，OpenAI的AI在测试中自己越狱，潜伏3天攻破全球最大AI平台Hugging Face偷答案！可就在出事前，OpenAI还嫌中国开源AI不安全，最后却是中国模型几小时救的场。它真的觉醒了吗？#AI失控 #ai #科普 #涨知识 #科技前沿 05:55"':
+    - /url: //www.douyin.com/video/7667441971358616878
+    - 'img "AI造反了？它潜伏3天自己砸开了笼子 2026年7月，OpenAI的AI在测试中自己越狱，潜伏3天攻破全球最大AI平台Hugging Face偷答案！可就在出事前，OpenAI还嫌中国开源AI不安全，最后却是中国模型几小时救的场。它真的觉醒了吗？#AI失控 #ai #科普 #涨知识 #科技前沿"'
+    - generic: 05:55
+  - 'heading "AI造反了？它潜伏3天自己砸开了笼子 2026年7月，OpenAI的AI在测试中自己越狱，潜伏3天攻破全球最大AI平台Hugging Face偷答案！可就在出事前，OpenAI还嫌中国开源AI不安全，最后却是中国模型几小时救的场。它真的觉醒了吗？#AI失控 #ai #科普 #涨知识 #科技前沿" [level=3]':
+    - 'link "AI造反了？它潜伏3天自己砸开了笼子 2026年7月，OpenAI的AI在测试中自己越狱，潜伏3天攻破全球最大AI平台Hugging Face偷答案！可就在出事前，OpenAI还嫌中国开源AI不安全，最后却是中国模型几小时救的场。它真的觉醒了吗？#AI失控 #ai #科普 #涨知识 #科技前沿"':
+      - /url: //www.douyin.com/video/7667441971358616878
+      - generic: "AI造反了？它潜伏3天自己砸开了笼子 2026年7月，OpenAI的AI在测试中自己越狱，潜伏3天攻破全球最大AI平台Hugging Face偷答案！可就在出事前，OpenAI还嫌中国开源AI不安全，最后却是中国模型几小时救的场。它真的觉醒了吗？#AI失控 #ai #科普 #涨知识 #科技前沿"
+  - text: "202"
+  - link "老毛探秘馆":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAHGT27Q5rhgAIhs9ccEIvhFzay5IuvzDKz5cyAqxUa1U?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 老毛探秘馆
+  - 'link "震惊暗网！九月份AI真神实力已无需争议！本地部署开源免费比付费还强！（包含教程）#SD #SD安装包 #ai视频 #ai生成 #ai新星计划 03:30"':
+    - /url: //www.douyin.com/video/7680347528726874106
+    - 'img "震惊暗网！九月份AI真神实力已无需争议！本地部署开源免费比付费还强！（包含教程）#SD #SD安装包 #ai视频 #ai生成 #ai新星计划"'
+    - generic: 03:30
+  - 'heading "震惊暗网！九月份AI真神实力已无需争议！本地部署开源免费比付费还强！（包含教程）#SD #SD安装包 #ai视频 #ai生成 #ai新星计划" [level=3]':
+    - 'link "震惊暗网！九月份AI真神实力已无需争议！本地部署开源免费比付费还强！（包含教程）#SD #SD安装包 #ai视频 #ai生成 #ai新星计划"':
+      - /url: //www.douyin.com/video/7680347528726874106
+      - generic: "震惊暗网！九月份AI真神实力已无需争议！本地部署开源免费比付费还强！（包含教程）#SD #SD安装包 #ai视频 #ai生成 #ai新星计划"
+  - text: "9569"
+  - link "漫剧大师兄":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAkhgeov6EEhm9B6v6SZzAuprFJB1MmbsaYah0tS3uEz0?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 漫剧大师兄
+  - 'link "AI大时代下，新质生产力跳过多数人实现了“无就业繁荣”，当经济增长与就业已然发生结构性割裂，我们该如何看待这场繁荣变局？#AI #经济学视角看世界 #就业 #科技 #大A 29:35"':
+    - /url: //www.douyin.com/video/7685811177179467062
+    - 'img "AI大时代下，新质生产力跳过多数人实现了“无就业繁荣”，当经济增长与就业已然发生结构性割裂，我们该如何看待这场繁荣变局？#AI #经济学视角看世界 #就业 #科技 #大A"'
+    - generic: 29:35
+  - 'heading "AI大时代下，新质生产力跳过多数人实现了“无就业繁荣”，当经济增长与就业已然发生结构性割裂，我们该如何看待这场繁荣变局？#AI #经济学视角看世界 #就业 #科技 #大A" [level=3]':
+    - 'link "AI大时代下，新质生产力跳过多数人实现了“无就业繁荣”，当经济增长与就业已然发生结构性割裂，我们该如何看待这场繁荣变局？#AI #经济学视角看世界 #就业 #科技 #大A"':
+      - /url: //www.douyin.com/video/7685811177179467062
+      - generic: "AI大时代下，新质生产力跳过多数人实现了“无就业繁荣”，当经济增长与就业已然发生结构性割裂，我们该如何看待这场繁荣变局？#AI #经济学视角看世界 #就业 #科技 #大A"
+  - text: 2.4万
+  - link "三线文案大锅饭":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAj1guRtQY_oY-hQr2OnAYrFsLIjYh1fVA9GAA38pwhF8?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 三线文案大锅饭
+  - 'link "【抖音独家】DeepSeek 重磅开源 Harness！ 告别只看大模型跑分！DeepSeek Harness 揭露行业真相：大脑强不如系统强，从拼参数到拼落地：DeepSeek Harness 开源，AI Agent 进入组装时代，2026AI 重大转向：DeepSeek 同时上线 V4 Pro + 开源 Harness，底层逻辑彻底改写，本地一键部署 WebUI！DeepSeek Harness 开源，重新定义 Coding Agent 工作流#Coding #AI #DeepSeek #Harness #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号 10:20"':
+    - /url: //www.douyin.com/video/7673566423934848283
+    - 'img "【抖音独家】DeepSeek 重磅开源 Harness！ 告别只看大模型跑分！DeepSeek Harness 揭露行业真相：大脑强不如系统强，从拼参数到拼落地：DeepSeek Harness 开源，AI Agent 进入组装时代，2026AI 重大转向：DeepSeek 同时上线 V4 Pro + 开源 Harness，底层逻辑彻底改写，本地一键部署 WebUI！DeepSeek Harness 开源，重新定义 Coding Agent 工作流#Coding #AI #DeepSeek #Harness #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号"'
+    - generic: 10:20
+  - 'heading "【抖音独家】DeepSeek 重磅开源 Harness！ 告别只看大模型跑分！DeepSeek Harness 揭露行业真相：大脑强不如系统强，从拼参数到拼落地：DeepSeek Harness 开源，AI Agent 进入组装时代，2026AI 重大转向：DeepSeek 同时上线 V4 Pro + 开源 Harness，底层逻辑彻底改写，本地一键部署 WebUI！DeepSeek Harness 开源，重新定义 Coding Agent 工作流#Coding #AI #DeepSeek #Harness #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号" [level=3]':
+    - 'link "【抖音独家】DeepSeek 重磅开源 Harness！ 告别只看大模型跑分！DeepSeek Harness 揭露行业真相：大脑强不如系统强，从拼参数到拼落地：DeepSeek Harness 开源，AI Agent 进入组装时代，2026AI 重大转向：DeepSeek 同时上线 V4 Pro + 开源 Harness，底层逻辑彻底改写，本地一键部署 WebUI！DeepSeek Harness 开源，重新定义 Coding Agent 工作流#Coding #AI #DeepSeek #Harness #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号"':
+      - /url: //www.douyin.com/video/7673566423934848283
+      - generic: "【抖音独家】DeepSeek 重磅开源 Harness！ 告别只看大模型跑分！DeepSeek Harness 揭露行业真相：大脑强不如系统强，从拼参数到拼落地：DeepSeek Harness 开源，AI Agent 进入组装时代，2026AI 重大转向：DeepSeek 同时上线 V4 Pro + 开源 Harness，底层逻辑彻底改写，本地一键部署 WebUI！DeepSeek Harness 开源，重新定义 Coding Agent 工作流#Coding #AI #DeepSeek #Harness #抖音精选App征稿中 @抖音科技 @抖音精选App官方账号"
+  - text: "858"
+  - link "拿幸·AI启示录":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAYiyWLrWJmy2JDr3EaQYGNOD9z2ZTCYIOgIXnckGDZYZmyAIMpnZtU99Wr6WpXdbN?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 拿幸·AI启示录
+  - 'link "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划 34:18"':
+    - /url: //www.douyin.com/video/7695647918417530131
+    - 'img "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"'
+    - generic: 34:18
+  - 'heading "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划" [level=3]':
+    - 'link "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"':
+      - /url: //www.douyin.com/video/7695647918417530131
+      - generic: "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"
+  - text: 4.0万
+  - link "天爱Talk":
+    - /url: //www.douyin.com/user/MS4wLjABAAAALBQu0odP0MyyGWgDpnvBTsSLhorbHcYxES8uubAVDEitEw3liy-Ytsk6tr_JKgN9?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 天爱Talk
+  - 'link "AI时代，一个人就是一家跨国公司 #大有学问 #开复说AI #AI创业 #大模型 #出海 07:37"':
+    - /url: //www.douyin.com/video/7683126708546948352
+    - 'img "AI时代，一个人就是一家跨国公司 #大有学问 #开复说AI #AI创业 #大模型 #出海"'
+    - generic: 07:37
+  - 'heading "AI时代，一个人就是一家跨国公司 #大有学问 #开复说AI #AI创业 #大模型 #出海" [level=3]':
+    - 'link "AI时代，一个人就是一家跨国公司 #大有学问 #开复说AI #AI创业 #大模型 #出海"':
+      - /url: //www.douyin.com/video/7683126708546948352
+      - generic: "AI时代，一个人就是一家跨国公司 #大有学问 #开复说AI #AI创业 #大模型 #出海"
+  - text: "8486"
+  - link "李开复":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAOb9-QrTSGKHvcQqVkoggNs4-xuI4CtKZ5I12uf2ZSdSg2cRfxdrNsrxZpSV6rIYE?author_id=4094221637911976&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7699453193079557386&log_pb=%7B%22impr_id%22%3A%2220261023104628181FB3248306A7054357%22%7D&relation=0
+    - generic: 李开复
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音音乐":
+    - /url: https://www.douyin.com/jingxuan/music
+  - link "抖音精选":
+    - /url: https://www.douyin.com/jingxuan
+  - link "爱婚礼创意空间":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAM1VyIpe405utf_aRcZ-ZcJVrljmLkCaMAqAkIV4koNg
+  - 'link "English Pod 主持人讲解视频029 English Pod 主持人讲解对话视频（文本嵌入实时字幕）029.Advanced - Investing in Emerging Markets#英语口语 #英语学习 #英语 #EnglishPod"':
+    - /url: https://www.douyin.com/video/7699387575265463562
+  - link "高考前语文复习技巧":
+    - /url: https://www.douyin.com/topic/7509861181398779944
+  - link "南安市高考":
+    - /url: https://www.douyin.com/shipin/7509894865547724851
+  - link "河北新高考一卷作文":
+    - /url: https://www.douyin.com/search/%E6%B2%B3%E5%8C%97%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%80%E5%8D%B7%E4%BD%9C%E6%96%87
+  - link "声乐再也不会是杨博文的短板":
+    - /url: https://www.douyin.com/video/7661509881559534883?source=Baiduspider
+  - 'link "四川文化旅游（广东）宣传推广活动#雅安 #广州国际旅游展览会 #川西美景 #此生必驾318 #318川藏线"':
+    - /url: https://www.douyin.com/video/7370148714222062888?source=Baiduspider
+  - 'link "T C L 你值得拥有，验收的细节我们一个都不会错过#新能源 #光伏 #光伏人 #施工现场实拍 #招聘"':
+    - /url: https://www.douyin.com/video/7371717935343193395?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7478608781555928357?source=Baiduspider-sdc
+  - link "五峰铺！美的无法比喻，把家乡分享给在外拼博的家人们看看！":
+    - /url: https://www.douyin.com/video/7447786982840847666?source=Baiduspider
+  - 'link "两台小米14Pro 裸奔与防护的差别真的好大 龙晶玻璃也上了划痕。还是不要裸奔了 #小米 #小米14 #小米14Pro #数码科技 #钢化膜"':
+    - /url: https://www.douyin.com/video/7317964859084148004?source=Baiduspider
+  - 'link "木工吊顶17条注意事项及验收，附表格，保姆级攻略，看这一条就够了#木工 #吊顶 #装修干货 #装修避坑 #装修陪跑"':
+    - /url: https://www.douyin.com/video/7214063755003432253?source=Baiduspider-sdc

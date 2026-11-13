@@ -1,0 +1,77 @@
+[
+  {
+    "key": "Fan",
+    "media": [
+      {
+        "duration": 265.6,
+        "height": 1024,
+        "paused": false,
+        "readyState": 4,
+        "time": 10.051228,
+        "tracks": 0,
+        "width": 576
+      },
+      {
+        "duration": null,
+        "height": 0,
+        "paused": true,
+        "readyState": 0,
+        "time": 0,
+        "tracks": 0,
+        "width": 0
+      }
+    ],
+    "title": "- 'heading \"第21集 | AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭#PHP漏洞 #AI安全 #软件供应链 #等保测评 #老樊AI\" [level=1]':",
+    "date": "- generic: 发布时间：2026-10-23 07:30"
+  },
+  {
+    "key": "Na",
+    "media": [
+      {
+        "duration": 874.568,
+        "height": 720,
+        "paused": false,
+        "readyState": 4,
+        "time": 5.559625,
+        "tracks": 0,
+        "width": 1280
+      },
+      {
+        "duration": null,
+        "height": 0,
+        "paused": true,
+        "readyState": 0,
+        "time": 0,
+        "tracks": 0,
+        "width": 0
+      }
+    ],
+    "title": "- 'heading \"第464集 | 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？#PHP #AI #漏洞 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号\" [level=1]':",
+    "date": "- generic: 发布时间：2026-10-23 01:18"
+  },
+  {
+    "key": "Zhou",
+    "media": [
+      {
+        "duration": 203.338,
+        "height": 1024,
+        "paused": false,
+        "readyState": 4,
+        "time": 11.900095,
+        "tracks": 0,
+        "width": 576
+      },
+      {
+        "duration": null,
+        "height": 0,
+        "paused": true,
+        "readyState": 0,
+        "time": 0,
+        "tracks": 0,
+        "width": 0
+      }
+    ],
+    "title": "- 'heading \"第456集 | PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检! #大有学问 #网络安全 #红衣聊AI #php高危漏洞遭泄露 #AI\" [level=1]':",
+    "date": "- generic: 发布时间：2026-10-22 19:30"
+  }
+]

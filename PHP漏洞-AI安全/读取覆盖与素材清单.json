@@ -1,0 +1,2471 @@
+{
+  "content_id": "php-ai-vulnerability-20261023",
+  "owner_thread": "01a11442-a6d9-7413-88b3-191ce5cb037b",
+  "status": "PARTIAL_VIDEO_READ_OFFICIAL_FACTS_AND_TOPIC_RECOMMENDATION_READY",
+  "started_utc": "2026-10-23T02:45:12Z",
+  "indexed_utc": "2026-10-23T02:58:33.366080+00:00",
+  "first_turn_budget_minutes": 25,
+  "new_original_media_bytes": 0,
+  "counts": {
+    "identity_verified": 3,
+    "actual_samples_read": 98,
+    "contact_sheets_read": 18,
+    "full_asr": 0,
+    "continuous_audiovisual": 0,
+    "direct_listening": 0
+  },
+  "videos": [
+    {
+      "key": "Fan",
+      "author": "老樊AI",
+      "work_id": "7699638782727618024",
+      "short_url": "https://v.douyin.com/y4VI3t3tvX4/",
+      "resolved_url": "https://www.douyin.com/video/7699638782727618024",
+      "page_identity": {
+        "key": "Fan",
+        "media": [
+          {
+            "duration": 265.6,
+            "height": 1024,
+            "paused": false,
+            "readyState": 4,
+            "time": 10.051228,
+            "tracks": 0,
+            "width": 576
+          },
+          {
+            "duration": null,
+            "height": 0,
+            "paused": true,
+            "readyState": 0,
+            "time": 0,
+            "tracks": 0,
+            "width": 0
+          }
+        ],
+        "title": "- 'heading \"第21集 | AI 又捅破天了：一个漏洞，芬兰荷兰日本政府网站集体关闭#PHP漏洞 #AI安全 #软件供应链 #等保测评 #老樊AI\" [level=1]':",
+        "date": "- generic: 发布时间：2026-10-23 07:30"
+      },
+      "page_timezone": "UNKNOWN",
+      "original_video_sha256": "NOT_OBTAINED",
+      "audio": {
+        "file": "NOT_OBTAINED",
+        "full_asr": "NOT_OBTAINED",
+        "direct_listening": "NOT_VERIFIED",
+        "continuous_audiovisual": "NOT_VERIFIED"
+      },
+      "subtitles": {
+        "native_text_tracks": 0,
+        "full_track": "NOT_OBTAINED",
+        "burned_in_text_at_saved_samples_actually_read": true
+      },
+      "visual": {
+        "samples": 27,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Fan/sheet-1.jpg",
+          "Fan/sheet-2.jpg",
+          "Fan/sheet-3.jpg",
+          "Fan/sheet-4.jpg",
+          "Fan/sheet-5.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.927885,
+          10.709577,
+          20.729391,
+          30.776319,
+          40.763269,
+          50.83214,
+          60.574909,
+          70.591996,
+          80.913306,
+          90.859135,
+          100.721,
+          110.636808,
+          120.613282,
+          130.638402,
+          140.789823,
+          150.659116,
+          160.658105,
+          170.571734,
+          180.908755,
+          190.92136,
+          200.687646,
+          210.728855,
+          220.679439,
+          230.972224,
+          240.891805,
+          250.85622,
+          263.79625
+        ],
+        "sample_records": [
+          {
+            "key": "Fan",
+            "requested": 1,
+            "paused": false,
+            "readyState": 4,
+            "time": 1.927885,
+            "after": 2.011841,
+            "file": "Fan/capture-0001.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 10,
+            "paused": false,
+            "readyState": 4,
+            "time": 10.709577,
+            "after": 10.76862,
+            "file": "Fan/capture-0002.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 20,
+            "paused": false,
+            "readyState": 4,
+            "time": 20.729391,
+            "after": 20.765693,
+            "file": "Fan/capture-0003.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 30,
+            "paused": false,
+            "readyState": 4,
+            "time": 30.776319,
+            "after": 30.838325,
+            "file": "Fan/capture-0004.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 40,
+            "paused": false,
+            "readyState": 4,
+            "time": 40.763269,
+            "after": 40.827872,
+            "file": "Fan/capture-0005.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 50,
+            "paused": false,
+            "readyState": 4,
+            "time": 50.83214,
+            "after": 50.894232,
+            "file": "Fan/capture-0006.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 60,
+            "paused": false,
+            "readyState": 4,
+            "time": 60.574909,
+            "after": 60.646404,
+            "file": "Fan/capture-0007.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 70,
+            "paused": false,
+            "readyState": 4,
+            "time": 70.591996,
+            "after": 70.63921,
+            "file": "Fan/capture-0008.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 80,
+            "paused": false,
+            "readyState": 4,
+            "time": 80.913306,
+            "after": 80.989491,
+            "file": "Fan/capture-0009.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 90,
+            "paused": false,
+            "readyState": 4,
+            "time": 90.859135,
+            "after": 90.929119,
+            "file": "Fan/capture-0010.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 100,
+            "paused": false,
+            "readyState": 4,
+            "time": 100.721,
+            "after": 100.78086,
+            "file": "Fan/capture-0011.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 110,
+            "paused": false,
+            "readyState": 4,
+            "time": 110.636808,
+            "after": 110.702684,
+            "file": "Fan/capture-0012.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 120,
+            "paused": false,
+            "readyState": 4,
+            "time": 120.613282,
+            "after": 120.666469,
+            "file": "Fan/capture-0013.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 130,
+            "paused": false,
+            "readyState": 4,
+            "time": 130.638402,
+            "after": 130.689404,
+            "file": "Fan/capture-0014.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 140,
+            "paused": false,
+            "readyState": 4,
+            "time": 140.789823,
+            "after": 140.846841,
+            "file": "Fan/capture-0015.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 150,
+            "paused": false,
+            "readyState": 4,
+            "time": 150.659116,
+            "after": 150.737484,
+            "file": "Fan/capture-0016.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 160,
+            "paused": false,
+            "readyState": 4,
+            "time": 160.658105,
+            "after": 160.716481,
+            "file": "Fan/capture-0017.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 170,
+            "paused": false,
+            "readyState": 4,
+            "time": 170.571734,
+            "after": 170.630697,
+            "file": "Fan/capture-0018.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 180,
+            "paused": false,
+            "readyState": 4,
+            "time": 180.908755,
+            "after": 180.969165,
+            "file": "Fan/capture-0019.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 190,
+            "paused": false,
+            "readyState": 4,
+            "time": 190.92136,
+            "after": 190.989335,
+            "file": "Fan/capture-0020.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 200,
+            "paused": false,
+            "readyState": 4,
+            "time": 200.687646,
+            "after": 200.737597,
+            "file": "Fan/capture-0021.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 210,
+            "paused": false,
+            "readyState": 4,
+            "time": 210.728855,
+            "after": 210.781725,
+            "file": "Fan/capture-0022.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 220,
+            "paused": false,
+            "readyState": 4,
+            "time": 220.679439,
+            "after": 220.752649,
+            "file": "Fan/capture-0023.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 230,
+            "paused": false,
+            "readyState": 4,
+            "time": 230.972224,
+            "after": 231.030272,
+            "file": "Fan/capture-0024.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 240,
+            "paused": false,
+            "readyState": 4,
+            "time": 240.891805,
+            "after": 240.973274,
+            "file": "Fan/capture-0025.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 250,
+            "paused": false,
+            "readyState": 4,
+            "time": 250.85622,
+            "after": 250.912502,
+            "file": "Fan/capture-0026.png"
+          },
+          {
+            "key": "Fan",
+            "requested": 263,
+            "paused": false,
+            "readyState": 4,
+            "time": 263.79625,
+            "after": 263.866348,
+            "file": "Fan/capture-0027.png"
+          }
+        ],
+        "unverified_between_samples": [
+          {
+            "start": 0,
+            "end": 1.927885
+          },
+          {
+            "start": 1.927885,
+            "end": 10.709577
+          },
+          {
+            "start": 10.709577,
+            "end": 20.729391
+          },
+          {
+            "start": 20.729391,
+            "end": 30.776319
+          },
+          {
+            "start": 30.776319,
+            "end": 40.763269
+          },
+          {
+            "start": 40.763269,
+            "end": 50.83214
+          },
+          {
+            "start": 50.83214,
+            "end": 60.574909
+          },
+          {
+            "start": 60.574909,
+            "end": 70.591996
+          },
+          {
+            "start": 70.591996,
+            "end": 80.913306
+          },
+          {
+            "start": 80.913306,
+            "end": 90.859135
+          },
+          {
+            "start": 90.859135,
+            "end": 100.721
+          },
+          {
+            "start": 100.721,
+            "end": 110.636808
+          },
+          {
+            "start": 110.636808,
+            "end": 120.613282
+          },
+          {
+            "start": 120.613282,
+            "end": 130.638402
+          },
+          {
+            "start": 130.638402,
+            "end": 140.789823
+          },
+          {
+            "start": 140.789823,
+            "end": 150.659116
+          },
+          {
+            "start": 150.659116,
+            "end": 160.658105
+          },
+          {
+            "start": 160.658105,
+            "end": 170.571734
+          },
+          {
+            "start": 170.571734,
+            "end": 180.908755
+          },
+          {
+            "start": 180.908755,
+            "end": 190.92136
+          },
+          {
+            "start": 190.92136,
+            "end": 200.687646
+          },
+          {
+            "start": 200.687646,
+            "end": 210.728855
+          },
+          {
+            "start": 210.728855,
+            "end": 220.679439
+          },
+          {
+            "start": 220.679439,
+            "end": 230.972224
+          },
+          {
+            "start": 230.972224,
+            "end": 240.891805
+          },
+          {
+            "start": 240.891805,
+            "end": 250.85622
+          },
+          {
+            "start": 250.85622,
+            "end": 263.79625
+          },
+          {
+            "start": 263.79625,
+            "end": 265.6
+          }
+        ],
+        "max_gap_seconds": 12.940029999999979,
+        "continuous_visual": "NOT_VERIFIED",
+        "clock_note": "time before screenshot and after screenshot bound retained; requested is seek intention, not actual time; late samples clamped to native progress bar max0.995"
+      },
+      "download_error": "Error: Error: Download 53a529b7-0b36-4522-be0f-20474ca58617 failed.\nlocator.downloadMedia failed for selector video >> nth=0\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"downloadMedia\",\"locator\":\"video >> nth=0\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":null,\"tag\":\"video\",\"text\":\"\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}",
+      "download_error_path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan-download-error.txt",
+      "minimal_missing_input": "exact original local video or audio via supported media route; no new model/API needed for existing local Whisper"
+    },
+    {
+      "key": "Na",
+      "author": "拿幸·AI启示录",
+      "work_id": "7699538811545488678",
+      "short_url": "https://v.douyin.com/XeDuLnGG2og/",
+      "resolved_url": "https://www.douyin.com/video/7699538811545488678",
+      "page_identity": {
+        "key": "Na",
+        "media": [
+          {
+            "duration": 874.568,
+            "height": 720,
+            "paused": false,
+            "readyState": 4,
+            "time": 5.559625,
+            "tracks": 0,
+            "width": 1280
+          },
+          {
+            "duration": null,
+            "height": 0,
+            "paused": true,
+            "readyState": 0,
+            "time": 0,
+            "tracks": 0,
+            "width": 0
+          }
+        ],
+        "title": "- 'heading \"第464集 | 【抖音独家】紧急！AI 挖出PHP高危漏洞，多国网站被迫下线 PHP2Shell 漏洞大爆发：AI 发现的底层缺陷，为何逼得多国如临大敌？无需账号密码即可入侵！解析惊动日本政府的 PHP 高危安全事件，锁坏了整条街紧张：PHP 远程代码执行漏洞，一次全球性网络危机复盘，AI 挖掘安全漏洞：全球七成网站面临风险，日本为何反应格外激烈？#PHP #AI #漏洞 #抖音精选App征稿中 #抖音精选App知识充电站 @抖音科技 @抖音精选App官方账号\" [level=1]':",
+        "date": "- generic: 发布时间：2026-10-23 01:18"
+      },
+      "page_timezone": "UNKNOWN",
+      "original_video_sha256": "NOT_OBTAINED",
+      "audio": {
+        "file": "NOT_OBTAINED",
+        "full_asr": "NOT_OBTAINED",
+        "direct_listening": "NOT_VERIFIED",
+        "continuous_audiovisual": "NOT_VERIFIED"
+      },
+      "subtitles": {
+        "native_text_tracks": 0,
+        "full_track": "NOT_OBTAINED",
+        "burned_in_text_at_saved_samples_actually_read": true
+      },
+      "visual": {
+        "samples": 45,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Na/sheet-1.jpg",
+          "Na/sheet-2.jpg",
+          "Na/sheet-3.jpg",
+          "Na/sheet-4.jpg",
+          "Na/sheet-5.jpg",
+          "Na/sheet-6.jpg",
+          "Na/sheet-7.jpg",
+          "Na/sheet-8.jpg"
+        ],
+        "actual_sample_seconds": [
+          3.326954,
+          20.258224,
+          40.833523,
+          63.940514,
+          80.124446,
+          100.885986,
+          120.420738,
+          139.968194,
+          160.738462,
+          180.433999,
+          200.149102,
+          221.171029,
+          240.608718,
+          261.109379,
+          280.78354,
+          300.832581,
+          320.053726,
+          340.829418,
+          360.379459,
+          379.879184,
+          400.827549,
+          421.474968,
+          440.119652,
+          460.648474,
+          480.316215,
+          501.146386,
+          520.684504,
+          540.327028,
+          560.797393,
+          580.633963,
+          600.14135,
+          621.062334,
+          640.6418,
+          660.123961,
+          680.942988,
+          700.760505,
+          720.223403,
+          740.945468,
+          760.7869,
+          780.135895,
+          800.881961,
+          820.469648,
+          839.557183,
+          860.943433,
+          870.874633
+        ],
+        "sample_records": [
+          {
+            "key": "Na",
+            "requested": 1,
+            "paused": false,
+            "readyState": 4,
+            "time": 3.326954,
+            "after": 3.388746,
+            "file": "Na/capture-0028.png"
+          },
+          {
+            "key": "Na",
+            "requested": 20,
+            "paused": false,
+            "readyState": 4,
+            "time": 20.258224,
+            "after": 20.345766,
+            "file": "Na/capture-0029.png"
+          },
+          {
+            "key": "Na",
+            "requested": 40,
+            "paused": false,
+            "readyState": 4,
+            "time": 40.833523,
+            "after": 40.901289,
+            "file": "Na/capture-0030.png"
+          },
+          {
+            "key": "Na",
+            "requested": 60,
+            "paused": false,
+            "readyState": 4,
+            "time": 63.940514,
+            "after": 63.991902,
+            "file": "Na/capture-0031.png"
+          },
+          {
+            "key": "Na",
+            "requested": 80,
+            "paused": false,
+            "readyState": 4,
+            "time": 80.124446,
+            "after": 80.187857,
+            "file": "Na/capture-0032.png"
+          },
+          {
+            "key": "Na",
+            "requested": 100,
+            "paused": false,
+            "readyState": 4,
+            "time": 100.885986,
+            "after": 100.955965,
+            "file": "Na/capture-0033.png"
+          },
+          {
+            "key": "Na",
+            "requested": 120,
+            "paused": false,
+            "readyState": 4,
+            "time": 120.420738,
+            "after": 120.489044,
+            "file": "Na/capture-0034.png"
+          },
+          {
+            "key": "Na",
+            "requested": 140,
+            "paused": false,
+            "readyState": 4,
+            "time": 139.968194,
+            "after": 140.024908,
+            "file": "Na/capture-0035.png"
+          },
+          {
+            "key": "Na",
+            "requested": 160,
+            "paused": false,
+            "readyState": 4,
+            "time": 160.738462,
+            "after": 160.779758,
+            "file": "Na/capture-0036.png"
+          },
+          {
+            "key": "Na",
+            "requested": 180,
+            "paused": false,
+            "readyState": 4,
+            "time": 180.433999,
+            "after": 180.498931,
+            "file": "Na/capture-0037.png"
+          },
+          {
+            "key": "Na",
+            "requested": 200,
+            "paused": false,
+            "readyState": 4,
+            "time": 200.149102,
+            "after": 200.209734,
+            "file": "Na/capture-0038.png"
+          },
+          {
+            "key": "Na",
+            "requested": 220,
+            "paused": false,
+            "readyState": 4,
+            "time": 221.171029,
+            "after": 221.25007,
+            "file": "Na/capture-0039.png"
+          },
+          {
+            "key": "Na",
+            "requested": 240,
+            "paused": false,
+            "readyState": 4,
+            "time": 240.608718,
+            "after": 240.714931,
+            "file": "Na/capture-0040.png"
+          },
+          {
+            "key": "Na",
+            "requested": 260,
+            "paused": false,
+            "readyState": 4,
+            "time": 261.109379,
+            "after": 261.183565,
+            "file": "Na/capture-0041.png"
+          },
+          {
+            "key": "Na",
+            "requested": 280,
+            "paused": false,
+            "readyState": 4,
+            "time": 280.78354,
+            "after": 280.849407,
+            "file": "Na/capture-0042.png"
+          },
+          {
+            "key": "Na",
+            "requested": 300,
+            "paused": false,
+            "readyState": 4,
+            "time": 300.832581,
+            "after": 300.906409,
+            "file": "Na/capture-0043.png"
+          },
+          {
+            "key": "Na",
+            "requested": 320,
+            "paused": false,
+            "readyState": 4,
+            "time": 320.053726,
+            "after": 320.111012,
+            "file": "Na/capture-0044.png"
+          },
+          {
+            "key": "Na",
+            "requested": 340,
+            "paused": false,
+            "readyState": 4,
+            "time": 340.829418,
+            "after": 340.912473,
+            "file": "Na/capture-0045.png"
+          },
+          {
+            "key": "Na",
+            "requested": 360,
+            "paused": false,
+            "readyState": 4,
+            "time": 360.379459,
+            "after": 360.435333,
+            "file": "Na/capture-0046.png"
+          },
+          {
+            "key": "Na",
+            "requested": 380,
+            "paused": false,
+            "readyState": 4,
+            "time": 379.879184,
+            "after": 379.927819,
+            "file": "Na/capture-0047.png"
+          },
+          {
+            "key": "Na",
+            "requested": 400,
+            "paused": false,
+            "readyState": 4,
+            "time": 400.827549,
+            "after": 400.901718,
+            "file": "Na/capture-0048.png"
+          },
+          {
+            "key": "Na",
+            "requested": 420,
+            "paused": false,
+            "readyState": 4,
+            "time": 421.474968,
+            "after": 421.517684,
+            "file": "Na/capture-0049.png"
+          },
+          {
+            "key": "Na",
+            "requested": 440,
+            "paused": false,
+            "readyState": 4,
+            "time": 440.119652,
+            "after": 440.194509,
+            "file": "Na/capture-0050.png"
+          },
+          {
+            "key": "Na",
+            "requested": 460,
+            "paused": false,
+            "readyState": 4,
+            "time": 460.648474,
+            "after": 460.68916,
+            "file": "Na/capture-0051.png"
+          },
+          {
+            "key": "Na",
+            "requested": 480,
+            "paused": false,
+            "readyState": 4,
+            "time": 480.316215,
+            "after": 480.358852,
+            "file": "Na/capture-0052.png"
+          },
+          {
+            "key": "Na",
+            "requested": 500,
+            "paused": false,
+            "readyState": 4,
+            "time": 501.146386,
+            "after": 501.235111,
+            "file": "Na/capture-0053.png"
+          },
+          {
+            "key": "Na",
+            "requested": 520,
+            "paused": false,
+            "readyState": 4,
+            "time": 520.684504,
+            "after": 520.74373,
+            "file": "Na/capture-0054.png"
+          },
+          {
+            "key": "Na",
+            "requested": 540,
+            "paused": false,
+            "readyState": 4,
+            "time": 540.327028,
+            "after": 540.367727,
+            "file": "Na/capture-0055.png"
+          },
+          {
+            "key": "Na",
+            "requested": 560,
+            "paused": false,
+            "readyState": 4,
+            "time": 560.797393,
+            "after": 560.85787,
+            "file": "Na/capture-0056.png"
+          },
+          {
+            "key": "Na",
+            "requested": 580,
+            "paused": false,
+            "readyState": 4,
+            "time": 580.633963,
+            "after": 580.679862,
+            "file": "Na/capture-0057.png"
+          },
+          {
+            "key": "Na",
+            "requested": 600,
+            "paused": false,
+            "readyState": 4,
+            "time": 600.14135,
+            "after": 600.277074,
+            "file": "Na/capture-0058.png"
+          },
+          {
+            "key": "Na",
+            "requested": 620,
+            "paused": false,
+            "readyState": 4,
+            "time": 621.062334,
+            "after": 621.130993,
+            "file": "Na/capture-0059.png"
+          },
+          {
+            "key": "Na",
+            "requested": 640,
+            "paused": false,
+            "readyState": 4,
+            "time": 640.6418,
+            "after": 640.730965,
+            "file": "Na/capture-0060.png"
+          },
+          {
+            "key": "Na",
+            "requested": 660,
+            "paused": false,
+            "readyState": 4,
+            "time": 660.123961,
+            "after": 660.202033,
+            "file": "Na/capture-0061.png"
+          },
+          {
+            "key": "Na",
+            "requested": 680,
+            "paused": false,
+            "readyState": 4,
+            "time": 680.942988,
+            "after": 680.991646,
+            "file": "Na/capture-0062.png"
+          },
+          {
+            "key": "Na",
+            "requested": 700,
+            "paused": false,
+            "readyState": 4,
+            "time": 700.760505,
+            "after": 700.809411,
+            "file": "Na/capture-0063.png"
+          },
+          {
+            "key": "Na",
+            "requested": 720,
+            "paused": false,
+            "readyState": 4,
+            "time": 720.223403,
+            "after": 720.292617,
+            "file": "Na/capture-0064.png"
+          },
+          {
+            "key": "Na",
+            "requested": 740,
+            "paused": false,
+            "readyState": 4,
+            "time": 740.945468,
+            "after": 740.986519,
+            "file": "Na/capture-0065.png"
+          },
+          {
+            "key": "Na",
+            "requested": 760,
+            "paused": false,
+            "readyState": 4,
+            "time": 760.7869,
+            "after": 760.855013,
+            "file": "Na/capture-0066.png"
+          },
+          {
+            "key": "Na",
+            "requested": 780,
+            "paused": false,
+            "readyState": 4,
+            "time": 780.135895,
+            "after": 780.182401,
+            "file": "Na/capture-0067.png"
+          },
+          {
+            "key": "Na",
+            "requested": 800,
+            "paused": false,
+            "readyState": 4,
+            "time": 800.881961,
+            "after": 800.935833,
+            "file": "Na/capture-0068.png"
+          },
+          {
+            "key": "Na",
+            "requested": 820,
+            "paused": false,
+            "readyState": 4,
+            "time": 820.469648,
+            "after": 820.526959,
+            "file": "Na/capture-0069.png"
+          },
+          {
+            "key": "Na",
+            "requested": 840,
+            "paused": false,
+            "readyState": 4,
+            "time": 839.557183,
+            "after": 839.628189,
+            "file": "Na/capture-0070.png"
+          },
+          {
+            "key": "Na",
+            "requested": 860,
+            "paused": false,
+            "readyState": 4,
+            "time": 860.943433,
+            "after": 861.003355,
+            "file": "Na/capture-0071.png"
+          },
+          {
+            "key": "Na",
+            "requested": 872,
+            "paused": false,
+            "readyState": 4,
+            "time": 870.874633,
+            "after": 870.914557,
+            "file": "Na/capture-0072.png"
+          }
+        ],
+        "unverified_between_samples": [
+          {
+            "start": 0,
+            "end": 3.326954
+          },
+          {
+            "start": 3.326954,
+            "end": 20.258224
+          },
+          {
+            "start": 20.258224,
+            "end": 40.833523
+          },
+          {
+            "start": 40.833523,
+            "end": 63.940514
+          },
+          {
+            "start": 63.940514,
+            "end": 80.124446
+          },
+          {
+            "start": 80.124446,
+            "end": 100.885986
+          },
+          {
+            "start": 100.885986,
+            "end": 120.420738
+          },
+          {
+            "start": 120.420738,
+            "end": 139.968194
+          },
+          {
+            "start": 139.968194,
+            "end": 160.738462
+          },
+          {
+            "start": 160.738462,
+            "end": 180.433999
+          },
+          {
+            "start": 180.433999,
+            "end": 200.149102
+          },
+          {
+            "start": 200.149102,
+            "end": 221.171029
+          },
+          {
+            "start": 221.171029,
+            "end": 240.608718
+          },
+          {
+            "start": 240.608718,
+            "end": 261.109379
+          },
+          {
+            "start": 261.109379,
+            "end": 280.78354
+          },
+          {
+            "start": 280.78354,
+            "end": 300.832581
+          },
+          {
+            "start": 300.832581,
+            "end": 320.053726
+          },
+          {
+            "start": 320.053726,
+            "end": 340.829418
+          },
+          {
+            "start": 340.829418,
+            "end": 360.379459
+          },
+          {
+            "start": 360.379459,
+            "end": 379.879184
+          },
+          {
+            "start": 379.879184,
+            "end": 400.827549
+          },
+          {
+            "start": 400.827549,
+            "end": 421.474968
+          },
+          {
+            "start": 421.474968,
+            "end": 440.119652
+          },
+          {
+            "start": 440.119652,
+            "end": 460.648474
+          },
+          {
+            "start": 460.648474,
+            "end": 480.316215
+          },
+          {
+            "start": 480.316215,
+            "end": 501.146386
+          },
+          {
+            "start": 501.146386,
+            "end": 520.684504
+          },
+          {
+            "start": 520.684504,
+            "end": 540.327028
+          },
+          {
+            "start": 540.327028,
+            "end": 560.797393
+          },
+          {
+            "start": 560.797393,
+            "end": 580.633963
+          },
+          {
+            "start": 580.633963,
+            "end": 600.14135
+          },
+          {
+            "start": 600.14135,
+            "end": 621.062334
+          },
+          {
+            "start": 621.062334,
+            "end": 640.6418
+          },
+          {
+            "start": 640.6418,
+            "end": 660.123961
+          },
+          {
+            "start": 660.123961,
+            "end": 680.942988
+          },
+          {
+            "start": 680.942988,
+            "end": 700.760505
+          },
+          {
+            "start": 700.760505,
+            "end": 720.223403
+          },
+          {
+            "start": 720.223403,
+            "end": 740.945468
+          },
+          {
+            "start": 740.945468,
+            "end": 760.7869
+          },
+          {
+            "start": 760.7869,
+            "end": 780.135895
+          },
+          {
+            "start": 780.135895,
+            "end": 800.881961
+          },
+          {
+            "start": 800.881961,
+            "end": 820.469648
+          },
+          {
+            "start": 820.469648,
+            "end": 839.557183
+          },
+          {
+            "start": 839.557183,
+            "end": 860.943433
+          },
+          {
+            "start": 860.943433,
+            "end": 870.874633
+          },
+          {
+            "start": 870.874633,
+            "end": 874.568
+          }
+        ],
+        "max_gap_seconds": 23.106991,
+        "continuous_visual": "NOT_VERIFIED",
+        "clock_note": "time before screenshot and after screenshot bound retained; requested is seek intention, not actual time; late samples clamped to native progress bar max0.995"
+      },
+      "download_error": "Error: Error: Download 04c63eee-33c7-42f0-8ecc-e285fe75bf7b failed.\nlocator.downloadMedia failed for selector video >> nth=0\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"downloadMedia\",\"locator\":\"video >> nth=0\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":null,\"tag\":\"video\",\"text\":\"\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}",
+      "download_error_path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na-download-error.txt",
+      "minimal_missing_input": "exact original local video or audio via supported media route; no new model/API needed for existing local Whisper"
+    },
+    {
+      "key": "Zhou",
+      "author": "红衣大叔周鸿祎",
+      "work_id": "7699453193079557386",
+      "short_url": "https://v.douyin.com/dP0CZ-awU-o/",
+      "resolved_url": "https://www.douyin.com/video/7699453193079557386",
+      "page_identity": {
+        "key": "Zhou",
+        "media": [
+          {
+            "duration": 203.338,
+            "height": 1024,
+            "paused": false,
+            "readyState": 4,
+            "time": 11.900095,
+            "tracks": 0,
+            "width": 576
+          },
+          {
+            "duration": null,
+            "height": 0,
+            "paused": true,
+            "readyState": 0,
+            "time": 0,
+            "tracks": 0,
+            "width": 0
+          }
+        ],
+        "title": "- 'heading \"第456集 | PHP爆雷!多国网站紧急关停,360免费开放图龙锋安全体检! #大有学问 #网络安全 #红衣聊AI #php高危漏洞遭泄露 #AI\" [level=1]':",
+        "date": "- generic: 发布时间：2026-10-22 19:30"
+      },
+      "page_timezone": "UNKNOWN",
+      "original_video_sha256": "NOT_OBTAINED",
+      "audio": {
+        "file": "NOT_OBTAINED",
+        "full_asr": "NOT_OBTAINED",
+        "direct_listening": "NOT_VERIFIED",
+        "continuous_audiovisual": "NOT_VERIFIED"
+      },
+      "subtitles": {
+        "native_text_tracks": 0,
+        "full_track": "NOT_OBTAINED",
+        "burned_in_text_at_saved_samples_actually_read": true
+      },
+      "visual": {
+        "samples": 26,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Zhou/sheet-1.jpg",
+          "Zhou/sheet-2.jpg",
+          "Zhou/sheet-3.jpg",
+          "Zhou/sheet-4.jpg",
+          "Zhou/sheet-5.jpg"
+        ],
+        "actual_sample_seconds": [
+          3.51955,
+          9.498662,
+          17.260742,
+          25.017148,
+          32.633809,
+          41.283022,
+          50.811111,
+          56.818422,
+          64.625465,
+          73.168057,
+          81.951195,
+          89.011976,
+          97.54836,
+          105.015653,
+          113.284774,
+          120.705496,
+          128.764106,
+          136.911366,
+          145.198986,
+          153.616437,
+          161.072966,
+          169.243182,
+          176.885411,
+          185.480529,
+          192.95188,
+          202.582411
+        ],
+        "sample_records": [
+          {
+            "key": "Zhou",
+            "requested": 1,
+            "paused": false,
+            "readyState": 4,
+            "time": 3.51955,
+            "after": 3.657299,
+            "file": "Zhou/capture-0073.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 8,
+            "paused": false,
+            "readyState": 4,
+            "time": 9.498662,
+            "after": 9.648353,
+            "file": "Zhou/capture-0074.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 16,
+            "paused": false,
+            "readyState": 4,
+            "time": 17.260742,
+            "after": 17.314781,
+            "file": "Zhou/capture-0075.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 24,
+            "paused": false,
+            "readyState": 4,
+            "time": 25.017148,
+            "after": 25.082737,
+            "file": "Zhou/capture-0076.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 32,
+            "paused": false,
+            "readyState": 4,
+            "time": 32.633809,
+            "after": 32.704782,
+            "file": "Zhou/capture-0077.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 40,
+            "paused": false,
+            "readyState": 4,
+            "time": 41.283022,
+            "after": 41.465023,
+            "file": "Zhou/capture-0078.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 48,
+            "paused": false,
+            "readyState": 4,
+            "time": 50.811111,
+            "after": 50.88281,
+            "file": "Zhou/capture-0079.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 56,
+            "paused": false,
+            "readyState": 4,
+            "time": 56.818422,
+            "after": 56.875282,
+            "file": "Zhou/capture-0080.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 64,
+            "paused": false,
+            "readyState": 4,
+            "time": 64.625465,
+            "after": 64.677579,
+            "file": "Zhou/capture-0081.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 72,
+            "paused": false,
+            "readyState": 4,
+            "time": 73.168057,
+            "after": 73.325802,
+            "file": "Zhou/capture-0082.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 80,
+            "paused": false,
+            "readyState": 4,
+            "time": 81.951195,
+            "after": 82.063647,
+            "file": "Zhou/capture-0083.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 88,
+            "paused": false,
+            "readyState": 4,
+            "time": 89.011976,
+            "after": 89.10089,
+            "file": "Zhou/capture-0084.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 96,
+            "paused": false,
+            "readyState": 4,
+            "time": 97.54836,
+            "after": 97.653531,
+            "file": "Zhou/capture-0085.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 104,
+            "paused": false,
+            "readyState": 4,
+            "time": 105.015653,
+            "after": 105.096755,
+            "file": "Zhou/capture-0086.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 112,
+            "paused": false,
+            "readyState": 4,
+            "time": 113.284774,
+            "after": 113.344416,
+            "file": "Zhou/capture-0087.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 120,
+            "paused": false,
+            "readyState": 4,
+            "time": 120.705496,
+            "after": 120.752191,
+            "file": "Zhou/capture-0088.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 128,
+            "paused": false,
+            "readyState": 4,
+            "time": 128.764106,
+            "after": 128.836804,
+            "file": "Zhou/capture-0089.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 136,
+            "paused": false,
+            "readyState": 4,
+            "time": 136.911366,
+            "after": 137.103686,
+            "file": "Zhou/capture-0090.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 144,
+            "paused": false,
+            "readyState": 4,
+            "time": 145.198986,
+            "after": 145.272538,
+            "file": "Zhou/capture-0091.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 152,
+            "paused": false,
+            "readyState": 4,
+            "time": 153.616437,
+            "after": 153.742993,
+            "file": "Zhou/capture-0092.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 160,
+            "paused": false,
+            "readyState": 4,
+            "time": 161.072966,
+            "after": 161.159993,
+            "file": "Zhou/capture-0093.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 168,
+            "paused": false,
+            "readyState": 4,
+            "time": 169.243182,
+            "after": 169.29549,
+            "file": "Zhou/capture-0094.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 176,
+            "paused": false,
+            "readyState": 4,
+            "time": 176.885411,
+            "after": 176.9529,
+            "file": "Zhou/capture-0095.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 184,
+            "paused": false,
+            "readyState": 4,
+            "time": 185.480529,
+            "after": 185.548431,
+            "file": "Zhou/capture-0096.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 192,
+            "paused": false,
+            "readyState": 4,
+            "time": 192.95188,
+            "after": 193.043411,
+            "file": "Zhou/capture-0097.png"
+          },
+          {
+            "key": "Zhou",
+            "requested": 201,
+            "paused": false,
+            "readyState": 4,
+            "time": 202.582411,
+            "after": 202.678119,
+            "file": "Zhou/capture-0098.png"
+          }
+        ],
+        "unverified_between_samples": [
+          {
+            "start": 0,
+            "end": 3.51955
+          },
+          {
+            "start": 3.51955,
+            "end": 9.498662
+          },
+          {
+            "start": 9.498662,
+            "end": 17.260742
+          },
+          {
+            "start": 17.260742,
+            "end": 25.017148
+          },
+          {
+            "start": 25.017148,
+            "end": 32.633809
+          },
+          {
+            "start": 32.633809,
+            "end": 41.283022
+          },
+          {
+            "start": 41.283022,
+            "end": 50.811111
+          },
+          {
+            "start": 50.811111,
+            "end": 56.818422
+          },
+          {
+            "start": 56.818422,
+            "end": 64.625465
+          },
+          {
+            "start": 64.625465,
+            "end": 73.168057
+          },
+          {
+            "start": 73.168057,
+            "end": 81.951195
+          },
+          {
+            "start": 81.951195,
+            "end": 89.011976
+          },
+          {
+            "start": 89.011976,
+            "end": 97.54836
+          },
+          {
+            "start": 97.54836,
+            "end": 105.015653
+          },
+          {
+            "start": 105.015653,
+            "end": 113.284774
+          },
+          {
+            "start": 113.284774,
+            "end": 120.705496
+          },
+          {
+            "start": 120.705496,
+            "end": 128.764106
+          },
+          {
+            "start": 128.764106,
+            "end": 136.911366
+          },
+          {
+            "start": 136.911366,
+            "end": 145.198986
+          },
+          {
+            "start": 145.198986,
+            "end": 153.616437
+          },
+          {
+            "start": 153.616437,
+            "end": 161.072966
+          },
+          {
+            "start": 161.072966,
+            "end": 169.243182
+          },
+          {
+            "start": 169.243182,
+            "end": 176.885411
+          },
+          {
+            "start": 176.885411,
+            "end": 185.480529
+          },
+          {
+            "start": 185.480529,
+            "end": 192.95188
+          },
+          {
+            "start": 192.95188,
+            "end": 202.582411
+          },
+          {
+            "start": 202.582411,
+            "end": 203.338
+          }
+        ],
+        "max_gap_seconds": 9.630531000000019,
+        "continuous_visual": "NOT_VERIFIED",
+        "clock_note": "time before screenshot and after screenshot bound retained; requested is seek intention, not actual time; late samples clamped to native progress bar max0.995"
+      },
+      "download_error": "Error: Error: Download 06f60f6f-4e40-48ab-ac64-0ff767e0e8e7 failed.\nlocator.downloadMedia failed for selector video >> nth=0\nLocator diagnostics: {\"kind\":\"action_failed\",\"action\":\"downloadMedia\",\"locator\":\"video >> nth=0\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":null,\"disabled\":false,\"role\":null,\"tag\":\"video\",\"text\":\"\",\"type\":null,\"visible\":true}],\"visibleCount\":1,\"truncated\":false}",
+      "download_error_path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou-download-error.txt",
+      "minimal_missing_input": "exact original local video or audio via supported media route; no new model/API needed for existing local Whisper"
+    }
+  ],
+  "workflow_gate": {
+    "actual_once": true,
+    "command": "workflow_gate.py check --content php-ai-vulnerability-20261023 --stage 01 --thread 01a11442-a6d9-7413-88b3-191ce5cb037b",
+    "observed_result": {
+      "allowed": true,
+      "content": "php-ai-vulnerability-20261023",
+      "stage": "01"
+    },
+    "exit_code": 0
+  },
+  "routing": {
+    "target_model": "gpt-6.1-sol",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN",
+    "doctor_completed": true,
+    "doctor_summary": "gh and bili-cli available; twitter unauthenticated; OpenCLI extension missing; used native IAB for Douyin; no tool repair"
+  },
+  "rules": [
+    "ELI-MEDIA-AGENTS-20261022-v3",
+    "CODEX-MEDIA-20261021-v2",
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4"
+  ],
+  "cleanup": {
+    "downloaded_mp4_or_wav": 0,
+    "decode_cache_created": false,
+    "deleted": false,
+    "reason": "only evidence PNG, derived sheets, page and research records retained; no disposable media cache created"
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/01-三视频与原事件研究任务.md",
+      "bytes": 4793,
+      "sha256": "7a136cba36cfe0479abd02e01c9c8493e588e951c5c37a82f9815ddb92985bf3",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/01-正式释放回执.json",
+      "bytes": 1272,
+      "sha256": "d2214d3bcfe6b20a67c27b3d6c5e8747650821d45ab2ef6f75a97946e2dfe506",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/01-派单回执.json",
+      "bytes": 497,
+      "sha256": "5e7d761778154611dff12fdfb9974e662925c23c90ccdb9f3a511c8de8a6c8cf",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0001.png",
+      "bytes": 107743,
+      "sha256": "2e726fda23f7c08faea38e10ca0853cd1e709f961934a69839d8bff65c727e75",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0002.png",
+      "bytes": 101854,
+      "sha256": "3d0d9bfe7de235511b6fc89514a186af56403d798cad2dcfe1e56085bd9f33ef",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0003.png",
+      "bytes": 97401,
+      "sha256": "4a0e1f73abeee3946fb0c3317fb9910f27dfc132ca92c9c92192d2709d3f9782",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0004.png",
+      "bytes": 101830,
+      "sha256": "4df019883b56bca64a3fb33295a3ac57728f01809a3a09ebc35ff4f91532ac54",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0005.png",
+      "bytes": 98366,
+      "sha256": "1e6f65550fa685261f8635c646185587dd1e54ed08004fd2d3cb0c1a16b173c4",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0006.png",
+      "bytes": 100725,
+      "sha256": "421b810286b544dfa76f90938e66d0edba11d9a365b5aa588bb8f497d0393959",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0007.png",
+      "bytes": 100774,
+      "sha256": "fbe5c28a9350bfd8180bd5a384078aa3112fcc9556016e326538105a619175e3",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0008.png",
+      "bytes": 105727,
+      "sha256": "7b04d30b749a29f03d9beb80aaf062d0b61acadccbb836ab4585edeb257374f4",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0009.png",
+      "bytes": 105722,
+      "sha256": "33e74da2a275f1b38ba1ccc459a1dfeec7ed6abcec963df7583446752188826c",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0010.png",
+      "bytes": 97740,
+      "sha256": "44dfca85c8e8feb58d9173506fb07c66963a7bba3a2972aefa792207c3dbc7f9",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0011.png",
+      "bytes": 98784,
+      "sha256": "b079f3de246605001ad1cc4df0bf3a26aeb0aaf1ff1e0f5c8dabf64d12145dc7",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0012.png",
+      "bytes": 106880,
+      "sha256": "e57fe307e815ce9e83bc4ab0e3cd750d08f85f54fc4a1c7139f52f160f8ee9a2",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0013.png",
+      "bytes": 99013,
+      "sha256": "5735dae1f920e54959832ab2daba8f86936a3d0b41d0613ffb6e28b763fb9380",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0014.png",
+      "bytes": 97877,
+      "sha256": "b1c82b56d2c865b169286cf21f4928ef7f3a38ca4d3920813b3de65bee0f355e",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0015.png",
+      "bytes": 106772,
+      "sha256": "2688e98f92e2b2e358a3a1a5679c79d9aeb91f0d24c451fd29c8fb2f7c322099",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0016.png",
+      "bytes": 99488,
+      "sha256": "38b[REDACTED_PHONE]b69142c00fa100b38e6428cb3d926e5b1736ba56647e200973",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0017.png",
+      "bytes": 101147,
+      "sha256": "7944034bb059b071e3ada791712c2bf0ad7aa7c827779bb96975d44e0a321c93",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0018.png",
+      "bytes": 98430,
+      "sha256": "52d30c41a66ec9bd0e5dcfc7a4d112d58135b9de30937403f000fe7c624b4010",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0019.png",
+      "bytes": 98923,
+      "sha256": "250c2bfd703463915be48e9b494bff67c6a414eea1ffaa47cc036f589db0957f",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0020.png",
+      "bytes": 102040,
+      "sha256": "e86ad3f538f20f391fbae89b848846ccf43c97d065c65493627856e85284763b",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0021.png",
+      "bytes": 106131,
+      "sha256": "61f4cab28406b98e0d10f3db463294a3358bd4db9ae7432246622d1d31770acb",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0022.png",
+      "bytes": 102292,
+      "sha256": "5387f9e4b8aab712427f0538a19a421d1fe45a12f73bc8e8e7c18f573fc003b3",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0023.png",
+      "bytes": 98131,
+      "sha256": "ae8825d576ad4cfa80c6045d471e61afedcd34b40c51f4f427656ee10ed03157",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0024.png",
+      "bytes": 104512,
+      "sha256": "219842d67832d623e25bf8e5a8614aad2292a75c476f462353830baa8d057c41",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0025.png",
+      "bytes": 103010,
+      "sha256": "bc53bd0cf46890c312e7cbf6638a8af02ac77dc98a9cd22e40bcd022593fb7ab",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0026.png",
+      "bytes": 102094,
+      "sha256": "f82ec41773925cea5473f2e3e3d29e483420b0fa7606b18c5e01dfa49654ff09",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/capture-0027.png",
+      "bytes": 103150,
+      "sha256": "59549c9adaf24422f19f8df92d21797d05325ec81a37ae6292b75a96fdbfeca6",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/sheet-1.jpg",
+      "bytes": 217308,
+      "sha256": "658a5a9adde4c2e2ad31f8af3504c2ac934788d52ef63f535a00e32d38fa0b4e",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/sheet-2.jpg",
+      "bytes": 231134,
+      "sha256": "60c4feeb494b58bafcc1e3132c5d80f133470007c9e647a9fe030477c4b24893",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/sheet-3.jpg",
+      "bytes": 207943,
+      "sha256": "15b20fc60d470e6678a9c5a451ca9ed6288bc200c1dc2d04f4477ae7f52393b3",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/sheet-4.jpg",
+      "bytes": 222467,
+      "sha256": "c617bf2204ad06e07d23413b096ed6d5f0b72013fc729b85eb6441a31ff6b601",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan/sheet-5.jpg",
+      "bytes": 126968,
+      "sha256": "02dafd35631507c82834284e596ef7ad704630f3d0da24150ebf3edeb023a2d6",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan-download-error.txt",
+      "bytes": 383,
+      "sha256": "888fb85ac0ecb3ddc4b3ca9b0f02233d6300f6f24a2319204924dbad8aaad473",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Fan-原页.txt",
+      "bytes": 34598,
+      "sha256": "8061280ff2973a622687562c20ddf78deb392246a93535f5699ddd52e6d3d0a6",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0028.png",
+      "bytes": 216827,
+      "sha256": "35e831ba529232405cda00b3a5702170728f5dd007359ed99eabbd94a77d23ff",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0029.png",
+      "bytes": 150420,
+      "sha256": "57ad0ef5140c3e45d365fe34e5555230ea00ca979db6f0011769c95092956972",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0030.png",
+      "bytes": 149970,
+      "sha256": "9b3e8de8f225a55f09df5b9358b9d15ffb13e3e6465157a7928749e4774b15cf",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0031.png",
+      "bytes": 127194,
+      "sha256": "094d76a3bba9453aeac2a6856019546ec9a904950f9c2d30c3fab1dcc868d6d6",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0032.png",
+      "bytes": 140685,
+      "sha256": "e71d183b35c2de948a78be6277bfa2e593e6be29ae9878bc36d5ef2f5b038854",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0033.png",
+      "bytes": 176883,
+      "sha256": "fd1a146e70ce5fc650fc014b54e2a127ebf156af43750b0f442304a0d249065b",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0034.png",
+      "bytes": 119148,
+      "sha256": "265136e27cdee51595b6e3d7ead87b22c4f1a5374df5d472d17de85b5bcdfe31",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0035.png",
+      "bytes": 129274,
+      "sha256": "b806289bc09105f53afb73fc9677294d627805f7be232fc7724fb1f4a48fa5c6",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0036.png",
+      "bytes": 148031,
+      "sha256": "a4f544324c46808ab23f4faac3f22338727e8d1a68be0019cebbe32eaeb20120",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0037.png",
+      "bytes": 212148,
+      "sha256": "dd8dcc59bcb14d6778c3af1e69a4355d1729045a2c806fa27c542caabbe0004d",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0038.png",
+      "bytes": 135860,
+      "sha256": "b7fcce63680a01c48e4e75e0082f1cb0ceef3eef42438426e8fd78ed7527e50a",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0039.png",
+      "bytes": 138655,
+      "sha256": "7dd1d00aa93b84006b5c2bc7860454d3ce4927b44e7bc30c2a571621d625798b",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0040.png",
+      "bytes": 118455,
+      "sha256": "2c424449199edc1652ec5611bf9b31b9cd30b97f08917054b4330b93297424a6",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0041.png",
+      "bytes": 141537,
+      "sha256": "f70d20bded4df1503add05faaf9fdd3b3d50c0ccd167926cfe3ab9fa75f2e223",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0042.png",
+      "bytes": 126814,
+      "sha256": "cc47c923990b2276b386d7fc44bc4322de6ec72f09608bd532a3f55638036ac4",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0043.png",
+      "bytes": 143377,
+      "sha256": "66a803601e3a2a1141d3776f2066fe09e31fe30da3ae82fb61d3040a76944636",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0044.png",
+      "bytes": 135933,
+      "sha256": "25705929c1fd4c18452175fbfef126c8f9755a9ef2d75535e962067608a0880d",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0045.png",
+      "bytes": 152976,
+      "sha256": "8d9c364579b4a1d73cf051a6f8f8a9b82ed6c6a2579e1c09afcf7577fff3b125",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0046.png",
+      "bytes": 129793,
+      "sha256": "7ed4b44aee247dc3d1f7bbb1cf6588577a21ac99952453543816c2a1ce62606f",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0047.png",
+      "bytes": 131948,
+      "sha256": "24de83146834bccab9aa423cc5a71a766f90b7f5be8cab47e7f3de0b9f772323",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0048.png",
+      "bytes": 136717,
+      "sha256": "5d0b5608fa49983b296bc8f7ce156908e44a4ea356ae372b44b0c7395aaa7011",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0049.png",
+      "bytes": 145767,
+      "sha256": "09461256c5821be4399965ac3dc35aa8820e47ec2a70a08de1703c3686a3a391",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0050.png",
+      "bytes": 143637,
+      "sha256": "83974a61767eb297bb7b0ac85b6c6bb8d6305bdbc56d89c448d8ade75fc0b296",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0051.png",
+      "bytes": 139891,
+      "sha256": "0b85996034a1d0fc1a0b0005c4c632b91b8ce525598e5e6a6c029d74dde6dcfe",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0052.png",
+      "bytes": 132499,
+      "sha256": "180e733e507d583c4d3cb0b8b409a98a7e678ae236823b796f6039b0fb68ea6a",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0053.png",
+      "bytes": 132146,
+      "sha256": "374b25d79bd8e7bdaeb98c64e766a4d3a008cc5be6c252cecbc4c8ac9983da35",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0054.png",
+      "bytes": 139589,
+      "sha256": "b90d2124ea0f0546f3d580b457a4afdc6124315bbf6be645d55e933da3012c37",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0055.png",
+      "bytes": 134342,
+      "sha256": "f30451c1c3fc03e43d4b1a3d3aa492126d04d5f9ea4e6fa806d645a1883f4119",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0056.png",
+      "bytes": 148204,
+      "sha256": "4e3b0a60d8f3dd0e5d64c1cc5c77ce4584d1b19bcb63d5d914be93a029e443ac",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0057.png",
+      "bytes": 130330,
+      "sha256": "a7d4acb35b9e5121cb3d09299e31ee292ee307b83375d8e5e64b9aa9016a80c0",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0058.png",
+      "bytes": 149352,
+      "sha256": "cf7b498c4076232e6de32bba24993847ca2f991921acaa8856b07e375e4fe308",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0059.png",
+      "bytes": 139779,
+      "sha256": "f26a136d72af09cc564596e032467fa0dac26bdc5bcfd71102a25c11cf80bbec",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0060.png",
+      "bytes": 170965,
+      "sha256": "a1396ff1bd93e56903b0339901e9df94401556f3a36d2c08985b65444efb2523",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0061.png",
+      "bytes": 147262,
+      "sha256": "419eac956aa61d058442796b8127d33445fea53b58056d13a81d94184006df03",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0062.png",
+      "bytes": 149537,
+      "sha256": "11005c7f37088ed8f8ae2bcb67b1f60e788f1d0c3c8e4eb17e526e94d28180b3",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0063.png",
+      "bytes": 119925,
+      "sha256": "03d403f61df3e877303590f659efea9e01e2f59d1be9e6941dfe6dc0f2eb2963",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0064.png",
+      "bytes": 172156,
+      "sha256": "d326df2554e9684d935ee7a530aa6f50973b918d9b53f1aaf47df36d7acf48fc",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0065.png",
+      "bytes": 156800,
+      "sha256": "dba029cbe36c542304aead24dbbb57037e8e60bec4dd1c6d8b88e5ed692b2563",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0066.png",
+      "bytes": 121137,
+      "sha256": "1440e09450ab9489e5e4ca87437aea6144c3549a62c8646d77f468c981773401",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0067.png",
+      "bytes": 139500,
+      "sha256": "1fe094c3e90078413d7c1945bc1f992f61253bde3155c8375f951a95d79b0796",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0068.png",
+      "bytes": 146931,
+      "sha256": "34b741e4fa6573e0fe40703b5137595b737c052cb4f1f15305aa44cdb136c774",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0069.png",
+      "bytes": 125067,
+      "sha256": "de3ac29ec6d44eb75e10d381e02f5bb80c1f09a27bd1a7976f7a12d57d66d93d",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0070.png",
+      "bytes": 137174,
+      "sha256": "402e96c83045e166569855ca25b9ca840891b843904a9a2db97528a82c91a5a5",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0071.png",
+      "bytes": 149765,
+      "sha256": "c13e92e2189f5ed46c57a48c2c46eb28968f97e7c4b2e732a758d5ba0504750b",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/capture-0072.png",
+      "bytes": 136718,
+      "sha256": "420c586a297e5623ce912dfd4fd004147bcd74ea314b98201aa1a0c37568b4b9",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-1.jpg",
+      "bytes": 294738,
+      "sha256": "d751c8e9102bc9a73d21215a7a2874d74fee67e20a849e785e85cce48052e6e5",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-2.jpg",
+      "bytes": 253256,
+      "sha256": "4f992b7166f5cbb829b5b9ae347b3c6b49d9a8ad0c929969126f3cce5497a8b2",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-3.jpg",
+      "bytes": 197241,
+      "sha256": "1fa6800fe23f50e9edeb6fa43fe80c811edcc5d07fdbc65f10765cf31a584b90",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-4.jpg",
+      "bytes": 204652,
+      "sha256": "acafd13cb2c24626d7e2386b6ce299a785dad3451776d97b3d93ccbf5098aa3c",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-5.jpg",
+      "bytes": 205904,
+      "sha256": "26ade08325c5dce63e46a1d8e1d00ff3715424854d4e6dfb1e102322a8adcc2d",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-6.jpg",
+      "bytes": 240109,
+      "sha256": "2ecc99cc8a548bb448c168b4b990ba1b7718720abb164b8dcd860d2506332678",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-7.jpg",
+      "bytes": 232300,
+      "sha256": "5d3f4335400cc4995aea8b30457aee5ae65ca34b2a9abb32ea8ebe882dc3198e",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na/sheet-8.jpg",
+      "bytes": 111286,
+      "sha256": "8e093d932b32180893bcfd8fa8edb95f16a2c33b8d370feff2259aaedb8d9feb",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na-download-error.txt",
+      "bytes": 383,
+      "sha256": "b9216d9ad1cc7f8c9570f8aec6fb3d93a3fe449ef290b5f54b5e710e1ed63962",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Na-原页.txt",
+      "bytes": 48062,
+      "sha256": "58dcbd52792110f02dce7b13cfea9eea19dda9aa6d728beb03d5a67991f37863",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/PMO-一手来源复核.json",
+      "bytes": 2519,
+      "sha256": "b0f8791634a25c021ab8e0a02e703a6154dc981cf61a3bed18b557c50ae24b1d",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0073.png",
+      "bytes": 108658,
+      "sha256": "39d23b2729932b86a1eeba1dace21f2ba9838e7ae9af5b79b647eddfea3e490a",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0074.png",
+      "bytes": 111507,
+      "sha256": "196a5f30904183a8b5b5447a9d18fc3f2f2b41bdc2520bcd1a0771f7799d9d3e",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0075.png",
+      "bytes": 109505,
+      "sha256": "650161925f7a6b7fa3a5acf1a1566809e3a0d3d89fbb950d29197ef77ac3d2f9",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0076.png",
+      "bytes": 115757,
+      "sha256": "f7d099866c75ce5b017f96b41f23a1815a9bda48d95f8eedef376a39b03243f5",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0077.png",
+      "bytes": 118811,
+      "sha256": "bace0834832771593a615edf7db60b3e0161dba30dcd0f8219ff4fe7fb656541",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0078.png",
+      "bytes": 114703,
+      "sha256": "4bd1f6cc63c1940d3f5c4a091c989261f31748b70e53cb2ab39ff671066597f7",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0079.png",
+      "bytes": 116921,
+      "sha256": "fb5392e0d7907620a844012ecaf2c5f0b9a6ee812e7e3af5198de33d872cf3b7",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0080.png",
+      "bytes": 109996,
+      "sha256": "89a39b105d2466792784aaeda96deef9690dc18371630b230eee4bb4acb746f7",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0081.png",
+      "bytes": 112410,
+      "sha256": "239038784f7f82c1daef27374080d654b7222cca9ecc95aadf36c9525341b1e9",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0082.png",
+      "bytes": 111104,
+      "sha256": "96e207e6c5b4235fe02a92b3b4e60aa0c59fb816a2d656e6656eccaa4b598f04",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0083.png",
+      "bytes": 113277,
+      "sha256": "2534cd457706b8e0b638c0aa36138f62795dfca752fbb6464670bfbbe2642f3e",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0084.png",
+      "bytes": 113482,
+      "sha256": "f60d964843da021f791f9c00b2ad705c6f84ba33d7bd66f28a74a3e8a83ce554",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0085.png",
+      "bytes": 114004,
+      "sha256": "a78570be35ab0974f0f8721efbc070bdedaee7e6683e87eaae99af239bf4700e",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0086.png",
+      "bytes": 108933,
+      "sha256": "bd36d11c82ceef0fe74ee5e770b7ee5ceb18adf2710934e5d3e04e962b612fba",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0087.png",
+      "bytes": 113876,
+      "sha256": "c35574b086caaf5a541ff839af4803483d64e75a0b8b00e1bfc61972a16459df",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0088.png",
+      "bytes": 116766,
+      "sha256": "63b499ccab0c547e1a390728a27ac20a29c02f8ebee5b0f46a7ce542d22dff44",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0089.png",
+      "bytes": 116395,
+      "sha256": "918f19bde12f6cf14940c570b3d03f3a39ce8bfb590a7a26fab237acc591817a",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0090.png",
+      "bytes": 118880,
+      "sha256": "59c77c4a4b66d77552e4298edfc07df482648f5c69bbae381c4498a3e0fcfffd",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0091.png",
+      "bytes": 114932,
+      "sha256": "a002357f30a286651dea0676cb070dfe8355c5d1d3e22747eaca638c05fcc03d",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0092.png",
+      "bytes": 121672,
+      "sha256": "d279a196ce6c81e8386f06bfcb85e6c1167181dc903eee83aa3acdf61fa71dde",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0093.png",
+      "bytes": 111442,
+      "sha256": "5ba40bf50c8e883fd2c3974723ce473dd9833df700244750404c6592818b72a5",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0094.png",
+      "bytes": 110559,
+      "sha256": "6630f187d0254f27b5bd8b6e2b5690d992fb79d601f614698a264a5670f38c5b",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0095.png",
+      "bytes": 111111,
+      "sha256": "0692de322514b6d4d9da81c26115c691976343f64e7ed266a897421c41fa17f7",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0096.png",
+      "bytes": 117075,
+      "sha256": "12e1fc74e9e0c1da299000224b447374a120eb78becabed911081f8f998b0ac8",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0097.png",
+      "bytes": 110864,
+      "sha256": "8ac95539bece8a4ce164f05229ecc6c2eb2378deab61ce554cab2fb6147de56a",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/capture-0098.png",
+      "bytes": 120795,
+      "sha256": "4fa541543716b5613dfe03c6086d7f948e486bd10319211f6e3f21459e9520ce",
+      "source": "native IAB screenshot"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/sheet-1.jpg",
+      "bytes": 291190,
+      "sha256": "b74703bddf3fa0214e38ad99b5cb13bc6ec2028032e7e07c1ee3cc9d8d80da08",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/sheet-2.jpg",
+      "bytes": 289938,
+      "sha256": "1e060af3fac90d0ff51f68012374bfbd15e5d19627841d6035b84b2b6f6c1245",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/sheet-3.jpg",
+      "bytes": 305905,
+      "sha256": "306b59173a276e8ecd6b971e4cf12b7c8ceea1656e1ae4382933c21865f1c963",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/sheet-4.jpg",
+      "bytes": 304386,
+      "sha256": "4123278823baae365da7bdf0f40ada7a8ed1700b657e7e0b6fb4f9381b584ede",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou/sheet-5.jpg",
+      "bytes": 122148,
+      "sha256": "02b112590a2ae3bc7fd3d257a5a79082f7ea944e7e03d06df6d230417cebee4d",
+      "source": "derived contact sheet; original PNG retained"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou-download-error.txt",
+      "bytes": 383,
+      "sha256": "c82543dc51cf066f5274c05e80ebcb7ac1c3cb3f521f50631605da6441e0a242",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/Zhou-原页.txt",
+      "bytes": 43267,
+      "sha256": "e5ecebf75f912779e1ac6d841cc611b89c507aa77f689adfaa64af70bf3cfea5",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpAttribution.json",
+      "bytes": 33017,
+      "sha256": "4f6fd651c7ac3dba96fe6face47ea4a6745cd106b25d73af58467544161d95f6",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpBodies.json",
+      "bytes": 27310,
+      "sha256": "3f72425ae26a9a5eaac6169f6fd94c7decc23edc12eeaacc9cef37e508e4924d",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpCoreSources.json",
+      "bytes": 30251,
+      "sha256": "af3a89cd346d2430010eb2f706c9ba23bb14f3b9ecc2ecb52d18fbbfcc49d73f",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpGovSearch.json",
+      "bytes": 35046,
+      "sha256": "cda3a95550010e53489e5d759a88b667d9bc2ca714bd5963c7ec16b2e125edff",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpInstitutions.json",
+      "bytes": 26627,
+      "sha256": "f0420bbdb060b4799e9ec114686f004ee0211de2c01253f98de7cc7167b7d117",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpMoreSources.json",
+      "bytes": 26381,
+      "sha256": "0ac6bd5890fcaa465c9dc4a7154c42fc486dd658ecc4a0878a1fefdb21990485",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/sources-phpOfficialDisclosure.json",
+      "bytes": 34093,
+      "sha256": "07790069bbe9f5263971589c36bd2fdc03a98ce32bc3cb9871e3626f2909dec2",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/三视频核验与选题建议.md",
+      "bytes": 6064,
+      "sha256": "55391cf3ee2128c8783325d5eb0fdac84f8350e44dd86ceb27503a8e8ef5712e",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/原事件事实表.md",
+      "bytes": 7642,
+      "sha256": "0f4a7481a6a16cca8bcd2b3795ad439835349902f587bb48f3ee5796e4d21d76",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/原页身份.json",
+      "bytes": 2400,
+      "sha256": "2efbb7a18623fd4f850e3222749210adb45fd6f6aebe763f4aa88c151e3595eb",
+      "source": "task, source page, tool evidence or research"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/内容雷达/20261023/PHP漏洞-AI安全/采样时点.json",
+      "bytes": 16990,
+      "sha256": "0d8ed6dad71b817c789c38063525bfd76f4ec1a8c2dfb97f8699e535ae62bd15",
+      "source": "task, source page, tool evidence or research"
+    }
+  ],
+  "file_count": 137,
+  "total_bytes": 16621960,
+  "exclusions": [
+    "self-reference",
+    "PMO发送回执.json saved after send"
+  ]
+}
